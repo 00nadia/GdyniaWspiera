@@ -1,0 +1,86 @@
+[
+  {
+    "id": "gw-psy-centrum-kryzysowe",
+    "name": "Miejskie Centrum Kryzysowe",
+    "institutionType": "crisis_center",
+    "categories": ["abuse", "mental_health", "family"],
+    "descriptionShort": "Całodobowe wsparcie interwencyjne dla osób doświadczających przemocy, kryzysów rodzinnych i silnego stresu.",
+    "descriptionLong": "Miejskie Centrum Kryzysowe oferuje bezpłatne wsparcie psychologiczne, interwencję kryzysową oraz konsultacje prawne dla osób doświadczających przemocy, nagłych kryzysów rodzinnych, myśli samobójczych lub silnego obciążenia psychicznego. Możliwa jest pomoc jednorazowa i krótkoterminowa.\n\nPomoc jest poufna i nie wymaga skierowania.",
+    "address": "ul. Przykładowa 1",
+    "district": "Śródmieście",
+    "city": "Gdynia",
+    "postalCode": "81-000",
+    "location": { "lat": 54.5189, "lng": 18.5305 },
+    "contact": {
+      "phone": "+48 58 000 00 01",
+      "email": "kryzys@gdynia.pl",
+      "website": "https://przyklad.gdynia.pl/kryzys"
+    },
+    "openingHours": [
+      { "day": "Monday–Sunday", "from": "00:00", "to": "23:59" }
+    ],
+    "targetGroups": ["Adults", "Young adults", "Families"],
+    "languagesOffered": ["Polish", "English", "Ukrainian"],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – social support services",
+    "lastUpdated": "2026-03-01",
+    "isFree": true
+  },
+  {
+    "id": "gw-psy-uzaleznienia",
+    "name": "Poradnia Leczenia Uzależnień",
+    "institutionType": "therapist",
+    "categories": ["addiction", "family"],
+    "descriptionShort": "Poradnia oferująca terapię indywidualną i grupową dla osób z problemem uzależnienia oraz ich bliskich.",
+    "descriptionLong": "Poradnia zapewnia kompleksową, bezpłatną pomoc osobom zmagającym się z uzależnieniem od alkoholu, narkotyków, internetu i innych zachowań nałogowych. Dostępna jest terapia indywidualna, grupowa oraz wsparcie dla rodzin i bliskich.\n\nDo skorzystania z pomocy nie jest wymagane skierowanie.",
+    "address": "ul. Nadziei 12",
+    "district": "Grabówek",
+    "city": "Gdynia",
+    "postalCode": "81-001",
+    "location": { "lat": 54.5105, "lng": 18.5201 },
+    "contact": {
+      "phone": "+48 58 000 00 02",
+      "email": "uzaleznienia@gdynia.pl",
+      "website": "https://przyklad.gdynia.pl/uzaleznienia"
+    },
+    "openingHours": [
+      { "day": "Monday–Friday", "from": "08:00", "to": "18:00" }
+    ],
+    "targetGroups": ["Adults", "Young adults"],
+    "languagesOffered": ["Polish"],
+    "isOnlineAvailable": false,
+    "verifiedBy": "City of Gdynia – health services",
+    "lastUpdated": "2026-02-20",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-bezplatna-pomoc",
+    "name": "Punkt Nieodpłatnej Pomocy Prawnej",
+    "institutionType": "lawyer",
+    "categories": ["legal", "financial", "housing"],
+    "descriptionShort": "Bezpłatne porady prawne m.in. w sprawach mieszkaniowych, zadłużeń, świadczeń i prawa rodzinnego.",
+    "descriptionLong": "Punkt zapewnia bezpłatne porady prawne osobom, które nie są w stanie ponieść kosztów odpłatnej pomocy. Można uzyskać wsparcie w zakresie prawa mieszkaniowego, zadłużeń, świadczeń socjalnych, prawa pracy i rodzinnego.\n\nNiezbędne jest wcześniejsze umówienie wizyty.",
+    "address": "ul. Prawna 5",
+    "district": "Chylonia",
+    "city": "Gdynia",
+    "postalCode": "81-002",
+    "location": { "lat": 54.545, "lng": 18.492 },
+    "contact": {
+      "phone": "+48 58 000 00 03",
+      "email": "prawo@gdynia.pl",
+      "website": "https://przyklad.gdynia.pl/pomoc-prawna"
+    },
+    "openingHours": [
+      { "day": "Monday", "from": "10:00", "to": "18:00" },
+      { "day": "Wednesday", "from": "08:00", "to": "16:00" },
+      { "day": "Friday", "from": "08:00", "to": "14:00" }
+    ],
+    "targetGroups": ["Adults", "Seniors"],
+    "languagesOffered": ["Polish"],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-02-15",
+    "isFree": true
+  }
+]
+
