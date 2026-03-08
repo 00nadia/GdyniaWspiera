@@ -55,9 +55,16 @@
     "footerEmergency": "For emergencies, always contact local emergency numbers first."
   },
   "about": {
-    "p1": "Gdynia Wspiera is coordinated by the home institution responsible for social support in the city of Gdynia. Its role is to collect, verify and regularly update information about free offers of help available to residents.",
-    "p2": "The offers in this browser come from public institutions, NGOs and other trusted partners. Before an offer appears here, it is checked – including its availability, target group, scope of support and contact information.",
-    "p3": "Institutions that would like to add or update their offer can contact the home institution using the official channels of the City of Gdynia."
+    "description": "<strong>Gdynia Wspiera</strong> is your trusted gateway to free, verified social support in Gdynia. We understand that life can be challenging, and access to the right help shouldn't be complicated or costly.",
+    "missionTitle": "Our Mission",
+    "missionDesc": "We collect, verify, and continuously update information about free social support offers available to Gdynia residents. Whether you're struggling with mental health, financial difficulties, domestic violence, addiction, or any other life challenge, we're here to connect you with the right resources.",
+    "trustTitle": "Why Trust Us?",
+    "trustDesc": "Our offers come from public institutions, NGOs, and carefully vetted trusted partners. Every single offer is thoroughly checked for availability, accessibility, scope of support, and accurate contact information before it appears here.",
+    "gettingStartedTitle": "Getting Started",
+    "gettingStartedDesc": "Head to our <a href='/offers'>Offers page</a> and explore help for your specific needs. Use filters to narrow by support type, location, or online assistance. Every offer is <strong>completely free</strong>.",
+    "wantToHelpTitle": "Want to Help?",
+    "wantToHelpDesc": "If you represent an organization that offers social support in Gdynia, we'd love to hear from you. Contact the City of Gdynia's social support institutions through official channels to add or update your offer.",
+    "emergencyNotice": "In case of emergency or immediate danger, always contact local emergency services (112) first. Gdynia Wspiera is a support finder, not an emergency service."
   },
   "helpOthers": {
     "p1": "If you want to support people in difficult life situations, Gdynia Wspiera helps you find safe and verified ways to do it – through volunteering, material support or cooperation as a professional.",

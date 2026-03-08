@@ -55,9 +55,16 @@
     "footerEmergency": "W nagłych wypadkach zawsze kontaktuj się z lokalnymi numerami alarmowymi."
   },
   "about": {
-    "p1": "Gdynia Wspiera jest koordynowana przez instytucję prowadzącą odpowiedzialną za wsparcie społeczne w mieście Gdynia. Jej rolą jest zbieranie, weryfikowanie i regularne aktualizowanie informacji o bezpłatnych ofertach pomocy dostępnych dla mieszkańców.",
-    "p2": "Oferty w tej przeglądarce pochodzą od instytucji publicznych, organizacji pozarządowych i innych zaufanych partnerów. Zanim oferta się tu pojawi, jest sprawdzana – w tym jej dostępność, grupa docelowa, zakres wsparcia i dane kontaktowe.",
-    "p3": "Instytucje, które chciałyby dodać lub zaktualizować swoją ofertę, mogą skontaktować się z instytucją prowadzącą za pośrednictwem oficjalnych kanałów Miasta Gdynia."
+    "description": "<strong>Gdynia Wspiera</strong> to Twój zaufany przewodnik po darmowej, zweryfikowanej pomocy społecznej w Gdyni...",
+    "missionTitle": "Nasza misja",
+    "missionDesc": "Zbieramy, weryfikujemy i aktualizujemy informacje o dostępnej pomocy społecznej...",
+    "trustTitle": "Dlaczego nam zaufać?",
+    "trustDesc": "Nasze oferty pochodzą z instytucji publicznych, NGO i sprawdzonych partnerów...",
+    "gettingStartedTitle": "Jak zacząć",
+    "gettingStartedDesc": "Przejdź do naszej strony <a href='/offers'>Oferty</a> i wybierz pomoc dla swoich potrzeb...",
+    "wantToHelpTitle": "Chcesz pomóc?",
+    "wantToHelpDesc": "Jeśli reprezentujesz organizację, która oferuje wsparcie społeczne w Gdyni...",
+    "emergencyNotice": "W nagłych wypadkach najpierw kontaktuj się z numerem alarmowym (112)."
   },
   "helpOthers": {
     "p1": "Jeśli chcesz wspierać osoby w trudnych sytuacjach życiowych, Gdynia Wspiera pomoże Ci znaleźć bezpieczne i zweryfikowane sposoby – poprzez wolontariat, wsparcie materialne lub współpracę jako profesjonalista.",
