@@ -15,8 +15,9 @@
 	const navLinks = [
 		{ href: '/', key: 'nav.home' },
 		{ href: '/offers', key: 'nav.offers' },
+		{ href: '/help-others', key: 'nav.helpOthers' },
 		{ href: '/about', key: 'nav.about' },
-		{ href: '/help-others', key: 'nav.helpOthers' }
+		{ href: '/contact', key: 'nav.contact' }
 	];
 
 	onMount(() => {

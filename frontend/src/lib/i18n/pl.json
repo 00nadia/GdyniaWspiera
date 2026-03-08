@@ -4,7 +4,8 @@
     "offers": "Oferty pomocy",
     "howToUse": "Jak korzystać",
     "about": "O instytucji",
-    "helpOthers": "Chcę pomagać"
+    "helpOthers": "Chcę pomagać",
+    "contact": "Kontakt"
   },
   "hero": {
     "title": "Pomoc w Gdyni, gdy życie jest trudne",
@@ -181,5 +182,15 @@
     "pl": "Polski",
     "en": "English",
     "uk": "Українська"
+  },
+  "contact": {
+    "intro": "Skontaktuj się z nami w sprawie wsparcia lub informacji.",
+    "emailLabel": "E-mail",
+    "email": "kontakt@gdyniawspiera.pl",
+    "phoneLabel": "Telefon",
+    "phone": "+48 58 123 45 67",
+    "addressLabel": "Adres",
+    "address": "ul. Świętojańska 123, 81-350 Gdynia"
   }
+
 }
