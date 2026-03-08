@@ -25,7 +25,7 @@ export interface OfferContact {
 }
 
 export interface OpeningHoursRange {
-	day: string;
+	day: Multilingual | string;
 	from: string;
 	to: string;
 }

@@ -406,7 +406,7 @@
       if (offer.openingHours?.length) {
         const label = lang === 'uk' ? 'Години' : lang === 'en' ? 'Hours' : 'Godziny';
         result += `🕐 ${label}: `;
-        result += offer.openingHours.map(h => `${h.day} ${h.from}–${h.to}`).join(', ');
+        result += offer.openingHours.map(h => `${getText(h.day, lang ?? 'pl')} ${h.from}–${h.to}`).join(', ');
         result += '\n';
       }
       if (offer.isOnlineAvailable) {

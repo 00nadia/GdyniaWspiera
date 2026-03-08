@@ -218,19 +218,7 @@
   </form>
 </section>
 
-<section aria-labelledby="info-title">
-  <h2 id="info-title" style="margin: 0 0 0.75rem; font-size: 1.2rem;">{$t('info.title')}</h2>
 
-  <p style="margin: 0 0 0.6rem; color: var(--color-text-muted); font-size: 0.95rem;">
-    {$t('info.p1')}
-  </p>
-  <p style="margin: 0 0 0.6rem; color: var(--color-text-muted); font-size: 0.95rem;">
-    {$t('info.p2')}
-  </p>
-  <p style="margin: 0; color: var(--color-text-muted); font-size: 0.95rem;">
-    {$t('info.p3')}
-  </p>
-</section>
 
 <style>
   @media (max-width: 768px) {

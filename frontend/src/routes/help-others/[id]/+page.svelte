@@ -7,15 +7,15 @@
 	const offer = data.offer!;
 	let currentLang = $derived($locale);
 
-	const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${offer.address}, ${offer.city}`)}`;
+	const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(offer.address)}`;
 </script>
 
 <nav style="font-size: 0.85rem; margin-bottom: 0.75rem;">
-	<a href="/offers">{$t('offerDetail.backToOffers')}</a>
+	<a href="/help-others">{$t('volDetail.backToList')}</a>
 </nav>
 
 <article
-	aria-labelledby="offer-title"
+	aria-labelledby="vol-title"
 	style="
 		background: rgba(255, 255, 255, 0.98);
 		border-radius: 20px;
@@ -28,9 +28,9 @@
 >
 	<section>
 		<header>
-			<h1 id="offer-title" style="margin: 0 0 0.4rem; font-size: 1.5rem;">{getText(offer.name, currentLang)}</h1>
+			<h1 id="vol-title" style="margin: 0 0 0.4rem; font-size: 1.5rem;">{getText(offer.name, currentLang)}</h1>
 			<div style="font-size: 0.9rem; color: var(--color-text-muted);">
-				{offer.address}, {offer.district}, {offer.city}
+				{offer.address}, {offer.district}
 			</div>
 			<div
 				style="
@@ -45,24 +45,28 @@
 					style="
 						border-radius: 999px;
 						padding: 0.2rem 0.6rem;
-						background: var(--color-primary-soft);
-						color: var(--color-primary);
+						background: {offer.category === 'internship' ? '#e8f5e9' : offer.category === 'volunteering' ? '#fff3e0' : '#e3f2fd'};
+						color: {offer.category === 'internship' ? '#2e7d32' : offer.category === 'volunteering' ? '#e65100' : '#1565c0'};
 						font-weight: 500;
 					"
 				>
-					{$t('offerDetail.freeOfCharge')}
+					{$t(`volunteering.cat_${offer.category}`)}
 				</span>
-				<span
-					style="
-						border-radius: 999px;
-						padding: 0.2rem 0.6rem;
-						background: #f1f4ff;
-					"
-				>
-					{$t('offerDetail.verifiedBy')} {offer.verifiedBy}
-				</span>
-				<span style="font-size: 0.8rem; color: var(--color-text-muted);">
-					{$t('offerDetail.lastUpdated')} {offer.lastUpdated}
+				{#if offer.isFree}
+					<span
+						style="
+							border-radius: 999px;
+							padding: 0.2rem 0.6rem;
+							background: var(--color-primary-soft);
+							color: var(--color-primary);
+							font-weight: 500;
+						"
+					>
+						{$t('volunteering.free')}
+					</span>
+				{/if}
+				<span style="border-radius: 999px; padding: 0.2rem 0.6rem; background: #f1f4ff;">
+					🏢 {getText(offer.place, currentLang)}
 				</span>
 			</div>
 		</header>
@@ -70,10 +74,21 @@
 		<section style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.5;">
 			<p style="white-space: pre-line; margin: 0 0 0.75rem;">{getText(offer.descriptionLong, currentLang)}</p>
 
-			<div style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--color-text-muted);">
-				<div><strong>{$t('offerDetail.targetGroups')}</strong> {offer.targetGroups.map(g => $t(`tags.${g}`)).join(', ')}</div>
-				<div><strong>{$t('offerDetail.languages')}</strong> {offer.languagesOffered.map(l => $t(`tags.${l}`)).join(', ')}</div>
-				<div><strong>{$t('offerDetail.onlineHelp')}</strong> {offer.isOnlineAvailable ? $t('offerDetail.yes') : $t('offerDetail.no')}</div>
+			<div style="margin-top: 0.75rem; font-size: 0.9rem; display: grid; grid-template-columns: auto 1fr; gap: 0.3rem 0.6rem;">
+				<strong>{$t('volunteering.targetGroup')}:</strong>
+				<span>{getText(offer.targetGroup, currentLang)}</span>
+
+				<strong>{$t('volunteering.duration')}:</strong>
+				<span>{getText(offer.duration, currentLang)}</span>
+
+				<strong>{$t('volunteering.schedule')}:</strong>
+				<span>{getText(offer.schedule, currentLang)}</span>
+
+				<strong>{$t('volunteering.requirements')}:</strong>
+				<span>{getText(offer.requirements, currentLang)}</span>
+
+				<strong>{$t('volunteering.recruitment')}:</strong>
+				<span>{getText(offer.recruitment, currentLang)}</span>
 			</div>
 		</section>
 	</section>
@@ -100,28 +115,24 @@
 			{#if offer.contact.website}
 				<div>
 					<strong>{$t('offerDetail.website')}</strong>
-					<a href={offer.contact.website} target="_blank" rel="noreferrer">{offer.contact.website}</a>
+					<a href={offer.contact.website.startsWith('http') ? offer.contact.website : `https://${offer.contact.website}`} target="_blank" rel="noreferrer">{offer.contact.website}</a>
 				</div>
 			{/if}
 		</section>
 
-		<section
-			aria-label={$t('offerDetail.openingHours')}
-			style="
-				padding: 0.9rem 1rem;
-				border-radius: 14px;
-				background: rgba(248, 249, 252, 0.9);
-			"
-		>
-			<div style="font-weight: 600; margin-bottom: 0.2rem;">{$t('offerDetail.openingHours')}</div>
-			<ul style="list-style: none; padding: 0; margin: 0; font-size: 0.85rem;">
-				{#each offer.openingHours as range}
-					<li>
-						{getText(range.day, currentLang)}: {range.from}–{range.to}
-					</li>
-				{/each}
-			</ul>
-		</section>
+		{#if getText(offer.openingHours, currentLang)}
+			<section
+				aria-label={$t('offerDetail.openingHours')}
+				style="
+					padding: 0.9rem 1rem;
+					border-radius: 14px;
+					background: rgba(248, 249, 252, 0.9);
+				"
+			>
+				<div style="font-weight: 600; margin-bottom: 0.2rem;">{$t('offerDetail.openingHours')}</div>
+				<div style="font-size: 0.85rem;">{getText(offer.openingHours, currentLang)}</div>
+			</section>
+		{/if}
 
 		<section
 			aria-label={$t('offerDetail.location')}
@@ -136,7 +147,7 @@
 		>
 			<div style="font-weight: 600;">{$t('offerDetail.location')}</div>
 			<div style="font-size: 0.85rem; color: var(--color-text-muted);">
-				{offer.address}, {offer.district}, {offer.city}
+				{offer.address}, {offer.district}
 			</div>
 			<a
 				href={googleMapsLink}
@@ -154,18 +165,34 @@
 			>
 				{$t('offerDetail.openInMaps')}
 			</a>
-			<div style="font-size: 0.8rem; color: var(--color-text-muted);">
-				{$t('offerDetail.mapPreview')}
-			</div>
 		</section>
+
+		{#if offer.url}
+			<a
+				href={offer.url}
+				target="_blank"
+				rel="noopener"
+				style="
+					display: inline-block;
+					border-radius: 999px;
+					padding: 0.5rem 1rem;
+					background: var(--color-primary);
+					color: #fff;
+					font-weight: 500;
+					font-size: 0.9rem;
+					text-align: center;
+				"
+			>
+				{$t('volunteering.moreInfo')}
+			</a>
+		{/if}
 	</aside>
 </article>
 
 <style>
 	@media (max-width: 900px) {
-		article[aria-labelledby='offer-title'] {
+		article[aria-labelledby='vol-title'] {
 			grid-template-columns: minmax(0, 1fr);
 		}
 	}
 </style>
-
