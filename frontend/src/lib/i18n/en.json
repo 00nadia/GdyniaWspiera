@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "home": "Main page",
+    "offers": "Offers",
+    "howToUse": "How to use",
+    "about": "About institution",
+    "helpOthers": "Help others"
+  },
+  "hero": {
+    "title": "Help in Gdynia, when life is difficult",
+    "subtitle": "Find free, verified and up-to-date psychological, legal and social support offers in Gdynia – for you or someone close to you.",
+    "needHelp": "I need help",
+    "wantToHelp": "I want to help / donate"
+  },
+  "common": {
+    "free": "Free support",
+    "verified": "Verified offers",
+    "multiLanguage": "Multi-language",
+    "homeInstitutionLabel": "Home institution",
+    "homeInstitution": "City of Gdynia – social support institutions"
+  },
+  "languages": {
+    "pl": "Polish",
+    "en": "English",
+    "uk": "Ukrainian"
+  }
+}

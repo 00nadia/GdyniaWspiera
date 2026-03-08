@@ -1,0 +1,832 @@
+[
+  {
+    "id": "gw-psy-centrum-kryzysowe",
+    "name": {
+      "pl": "Miejskie Centrum Kryzysowe",
+      "en": "Municipal Crisis Center",
+      "uk": "Municipal Crisis Center"
+    },
+    "institutionType": "crisis_center",
+    "categories": [
+      "abuse",
+      "mental_health",
+      "family"
+    ],
+    "descriptionShort": {
+      "pl": "Całodobowe wsparcie interwencyjne dla osób doświadczających przemocy, kryzysów rodzinnych i silnego stresu.",
+      "en": "24/7 intervention support for people experiencing violence, family crises and severe stress.",
+      "uk": "24/7 intervention support for people experiencing violence, family crises and severe stress."
+    },
+    "descriptionLong": {
+      "pl": "Miejskie Centrum Kryzysowe oferuje bezpłatne wsparcie psychologiczne, interwencję kryzysową oraz konsultacje prawne dla osób doświadczających przemocy, nagłych kryzysów rodzinnych, myśli samobójczych lub silnego obciążenia psychicznego. Możliwa jest pomoc jednorazowa i krótkoterminowa.\n\nPomoc jest poufna i nie wymaga skierowania.",
+      "en": "The Municipal Crisis Center offers free psychological support, crisis intervention and legal consultations for people experiencing violence, sudden family crises, suicidal thoughts or severe mental stress. One-off and short-term assistance is available.\n\nHelp is confidential and does not require a referral.",
+      "uk": "The Municipal Crisis Center offers free psychological support, crisis intervention and legal consultations for people experiencing violence, sudden family crises, suicidal thoughts or severe mental stress. One-off and short-term assistance is available.\n\nHelp is confidential and does not require a referral."
+    },
+    "address": "ul. Przykładowa 1",
+    "district": "Śródmieście",
+    "city": "Gdynia",
+    "postalCode": "81-000",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 000 00 01",
+      "email": "kryzys@gdynia.pl",
+      "website": "https://przyklad.gdynia.pl/kryzys"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Sunday",
+        "from": "00:00",
+        "to": "23:59"
+      }
+    ],
+    "targetGroups": [
+      "Adults",
+      "Young adults",
+      "Families"
+    ],
+    "languagesOffered": [
+      "Polish",
+      "English",
+      "Ukrainian"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – social support services",
+    "lastUpdated": "2026-03-01",
+    "isFree": true
+  },
+  {
+    "id": "gw-psy-uzaleznienia",
+    "name": {
+      "pl": "Poradnia Leczenia Uzależnień",
+      "en": "Addiction Treatment Clinic",
+      "uk": "Addiction Treatment Clinic"
+    },
+    "institutionType": "therapist",
+    "categories": [
+      "addiction",
+      "family"
+    ],
+    "descriptionShort": {
+      "pl": "Poradnia oferująca terapię indywidualną i grupową dla osób z problemem uzależnienia oraz ich bliskich.",
+      "en": "A clinic offering individual and group therapy for people with addiction problems and their loved ones.",
+      "uk": "A clinic offering individual and group therapy for people with addiction problems and their loved ones."
+    },
+    "descriptionLong": {
+      "pl": "Poradnia zapewnia kompleksową, bezpłatną pomoc osobom zmagającym się z uzależnieniem od alkoholu, narkotyków, internetu i innych zachowań nałogowych. Dostępna jest terapia indywidualna, grupowa oraz wsparcie dla rodzin i bliskich.\n\nDo skorzystania z pomocy nie jest wymagane skierowanie.",
+      "en": "The clinic provides comprehensive, free help to people struggling with addiction to alcohol, drugs, the Internet and other addictive behaviors. Individual and group therapy and support for families and loved ones are available.\n\nA referral is not required to receive assistance.",
+      "uk": "The clinic provides comprehensive, free help to people struggling with addiction to alcohol, drugs, the Internet and other addictive behaviors. Individual and group therapy and support for families and loved ones are available.\n\nA referral is not required to receive assistance."
+    },
+    "address": "ul. Nadziei 12",
+    "district": "Grabówek",
+    "city": "Gdynia",
+    "postalCode": "81-001",
+    "location": {
+      "lat": 54.5105,
+      "lng": 18.5201
+    },
+    "contact": {
+      "phone": "+48 58 000 00 02",
+      "email": "uzaleznienia@gdynia.pl",
+      "website": "https://przyklad.gdynia.pl/uzaleznienia"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Friday",
+        "from": "08:00",
+        "to": "18:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults",
+      "Young adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": false,
+    "verifiedBy": "City of Gdynia – health services",
+    "lastUpdated": "2026-02-20",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-bezplatna-pomoc",
+    "name": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej",
+      "en": "Free Legal Aid Point",
+      "uk": "Free Legal Aid Point"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal",
+      "financial",
+      "housing"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne m.in. w sprawach mieszkaniowych, zadłużeń, świadczeń i prawa rodzinnego.",
+      "en": "Free legal advice, including: in housing, debt, benefits and family law matters.",
+      "uk": "Free legal advice, including: in housing, debt, benefits and family law matters."
+    },
+    "descriptionLong": {
+      "pl": "Punkt zapewnia bezpłatne porady prawne osobom, które nie są w stanie ponieść kosztów odpłatnej pomocy. Można uzyskać wsparcie w zakresie prawa mieszkaniowego, zadłużeń, świadczeń socjalnych, prawa pracy i rodzinnego.\n\nNiezbędne jest wcześniejsze umówienie wizyty.",
+      "en": "The point provides free legal advice to people who are unable to afford the costs of paid assistance. You can get support in the field of housing law, debts, social benefits, labor and family law.\n\nIt is necessary to make an appointment in advance.",
+      "uk": "The point provides free legal advice to people who are unable to afford the costs of paid assistance. You can get support in the field of housing law, debts, social benefits, labor and family law.\n\nIt is necessary to make an appointment in advance."
+    },
+    "address": "ul. Prawna 5",
+    "district": "Chylonia",
+    "city": "Gdynia",
+    "postalCode": "81-002",
+    "location": {
+      "lat": 54.545,
+      "lng": 18.492
+    },
+    "contact": {
+      "phone": "+48 58 000 00 03",
+      "email": "prawo@gdynia.pl",
+      "website": "https://przyklad.gdynia.pl/pomoc-prawna"
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "from": "10:00",
+        "to": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "from": "08:00",
+        "to": "16:00"
+      },
+      {
+        "day": "Friday",
+        "from": "08:00",
+        "to": "14:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults",
+      "Seniors"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-02-15",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-konsultacja-prawna-3maja",
+    "name": {
+      "pl": "Konsultacja prawna",
+      "en": "Legal consultation",
+      "uk": "Legal consultation"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
+      "en": "Free legal advice at the Free Legal Aid Point.",
+      "uk": "Free legal advice at the Free Legal Aid Point."
+    },
+    "descriptionLong": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne dla osób, które nie są w stanie ponieść kosztów odpłatnej pomocy. Pomoc jest dostępna zarówno stacjonarnie, jak i zdalnie.\n\nWskazówki: Jeżeli w tym miejscu nie możesz otrzymać pomocy, skontaktuj się ze Stowarzyszeniem OVUM przy ul. Traugutta 2 pod numerem telefonu 58 350 15 15 lub adresem e-mail biuro@ovum.org.pl.",
+      "en": "The Free Legal Assistance Point offers legal advice to people who are unable to afford the costs of paid assistance. Help is available both on-site and remotely.\n\nTips: If you cannot get help here, please contact the OVUM Association at ul. Traugutta 2 by phone at 58 350 15 15 or by e-mail biuro@ovum.org.pl.",
+      "uk": "The Free Legal Assistance Point offers legal advice to people who are unable to afford the costs of paid assistance. Help is available both on-site and remotely.\n\nTips: If you cannot get help here, please contact the OVUM Association at ul. Traugutta 2 by phone at 58 350 15 15 or by e-mail biuro@ovum.org.pl."
+    },
+    "address": "ul. 3 maja 27/31",
+    "district": "Śródmieście",
+    "city": "Gdynia",
+    "postalCode": "81-364",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 527 51 30",
+      "email": "npp@gdynia.pl",
+      "website": "https://bip.um.gdynia.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Friday",
+        "from": "08:00",
+        "to": "16:15"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-ovum",
+    "name": {
+      "pl": "Pomoc prawna i poradnictwo obywatelskie",
+      "en": "Legal assistance and civic counseling",
+      "uk": "Legal assistance and civic counseling"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne i wsparcie obywatelskie w Stowarzyszeniu OVUM.",
+      "en": "Free legal advice and civic support at the OVUM Association.",
+      "uk": "Free legal advice and civic support at the OVUM Association."
+    },
+    "descriptionLong": {
+      "pl": "Stowarzyszenie OVUM oferuje bezpłatne porady prawne, wsparcie w sprawach obywatelskich oraz pomoc w zakresie praw konsumenta i życia codziennego.\n\nPomoc udzielana jest po wcześniejszym umówieniu terminu wizyty.",
+      "en": "The OVUM Association offers free legal advice, support in civic matters and assistance in consumer rights and everyday life.\n\nAssistance is provided after prior appointment.",
+      "uk": "The OVUM Association offers free legal advice, support in civic matters and assistance in consumer rights and everyday life.\n\nAssistance is provided after prior appointment."
+    },
+    "address": "ul. Romualda Traugutta 2",
+    "district": "Chylonia",
+    "city": "Gdynia",
+    "postalCode": "81-388",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 661 31 51",
+      "email": "biuro@ovum.org.pl",
+      "website": "https://ovum.org.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Friday",
+        "from": "12:00",
+        "to": "20:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "Stowarzyszenie OVUM",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-psy-psychoterapia-mops",
+    "name": {
+      "pl": "Wsparcie psychoterapeutyczne",
+      "en": "Psychotherapeutic support",
+      "uk": "Psychotherapeutic support"
+    },
+    "institutionType": "therapist",
+    "categories": [
+      "mental_health"
+    ],
+    "descriptionShort": {
+      "pl": "Wsparcie psychologiczne i psychoterapia dla mieszkańców Gdyni.",
+      "en": "Psychological support and psychotherapy for Gdynia residents.",
+      "uk": "Psychological support and psychotherapy for Gdynia residents."
+    },
+    "descriptionLong": {
+      "pl": "Zespół Pomocy Psychologicznej MOPS oferuje konsultacje psychologiczne, grupy terapeutyczne oraz terapię indywidualną i rodzinną dla dzieci, młodzieży i dorosłych.\n\nW cenniku znajduje się krótko- i długoterminowa pomoc.",
+      "en": "The MOPS Psychological Assistance Team offers psychological consultations, therapeutic groups and individual and family therapy for children, adolescents and adults.\n\nThe price list includes short- and long-term assistance.",
+      "uk": "The MOPS Psychological Assistance Team offers psychological consultations, therapeutic groups and individual and family therapy for children, adolescents and adults.\n\nThe price list includes short- and long-term assistance."
+    },
+    "address": "ul. Świętojańska 57/1",
+    "district": "Śródmieście",
+    "city": "Gdynia",
+    "postalCode": "81-391",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 663 03 35"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Friday",
+        "from": "08:00",
+        "to": "18:00"
+      }
+    ],
+    "targetGroups": [
+      "Children",
+      "Young adults",
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": false,
+    "verifiedBy": "MOPS w Gdyni",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-psy-uzaleznienie-czynnosci",
+    "name": {
+      "pl": "Diagnoza i leczenie uzależnienia od czynności",
+      "en": "Diagnosis and treatment of activity addiction",
+      "uk": "Diagnosis and treatment of activity addiction"
+    },
+    "institutionType": "therapist",
+    "categories": [
+      "addiction",
+      "mental_health"
+    ],
+    "descriptionShort": {
+      "pl": "Poradnia Leczenia Uzależnień OPiTU oferuje pomoc osobom uzależnionym behawioralnie i ich bliskim.",
+      "en": "The OPiTU Addiction Treatment Clinic offers help to behaviorally addicted people and their loved ones.",
+      "uk": "The OPiTU Addiction Treatment Clinic offers help to behaviorally addicted people and their loved ones."
+    },
+    "descriptionLong": {
+      "pl": "Poradnia OPiTU prowadzi psychoterapię indywidualną i grupową dla osób uzależnionych od hazardu, internetu, gier komputerowych, zakupów i innych zachowań. Pomoc kierowana jest także do bliskich osób uzależnionych.",
+      "en": "The OPiTU clinic provides individual and group psychotherapy for people addicted to gambling, the Internet, computer games, shopping and other behaviors. Help is also directed to loved ones of addicts.",
+      "uk": "The OPiTU clinic provides individual and group psychotherapy for people addicted to gambling, the Internet, computer games, shopping and other behaviors. Help is also directed to loved ones of addicts."
+    },
+    "address": "ul. Chrzanowskiego 3/5",
+    "district": "Chylonia",
+    "city": "Gdynia",
+    "postalCode": "81-338",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 620 88 88",
+      "email": "narko@opitu.pl",
+      "website": "https://opitu.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "By appointment",
+        "from": "",
+        "to": ""
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": false,
+    "verifiedBy": "OPiTU",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-konsultacja-prawna-lipowa",
+    "name": {
+      "pl": "Konsultacja prawna",
+      "en": "Legal consultation",
+      "uk": "Legal consultation"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
+      "en": "Free legal advice at the Free Legal Aid Point.",
+      "uk": "Free legal advice at the Free Legal Aid Point."
+    },
+    "descriptionLong": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
+      "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
+      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+    },
+    "address": "ul. Lipowa 15",
+    "district": "Śródmieście",
+    "city": "Gdynia",
+    "postalCode": "81-572",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 350 15 15",
+      "email": "biuro@ovum.org.pl",
+      "website": "https://ovum.org.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "from": "16:00",
+        "to": "20:00"
+      },
+      {
+        "day": "Saturday",
+        "from": "13:00",
+        "to": "17:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-profilaktyka-cyfrowa",
+    "name": {
+      "pl": "Poradzimy w cyfrowym świecie - konsultacje profilaktyczne",
+      "en": "We will advise you in the digital world - preventive consultations",
+      "uk": "We will advise you in the digital world - preventive consultations"
+    },
+    "institutionType": "support_group",
+    "categories": [
+      "mental_health",
+      "addiction"
+    ],
+    "descriptionShort": {
+      "pl": "Konsultacje dla rodziców i dzieci dotyczące bezpiecznego korzystania z mediów ekranowych.",
+      "en": "Consultations for parents and children on the safe use of screen media.",
+      "uk": "Consultations for parents and children on the safe use of screen media."
+    },
+    "descriptionLong": {
+      "pl": "Dział Profilaktyki OPiTU oferuje konsultacje profilaktyczne dla rodziców dzieci w wieku 6-12 lat, którzy spędzają za dużo czasu korzystając z mediów ekranowych. Rejestracja telefoniczna.",
+      "en": "The OPiTU Prevention Department offers preventive consultations for parents of children aged 6-12 who spend too much time using screen media. Telephone registration.",
+      "uk": "The OPiTU Prevention Department offers preventive consultations for parents of children aged 6-12 who spend too much time using screen media. Telephone registration."
+    },
+    "address": "ul. Al. Zwycięstwa 96/98",
+    "district": "Redłowo",
+    "city": "Gdynia",
+    "postalCode": "81-451",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 518 014 959",
+      "email": "profilaktyka@opitu.pl",
+      "website": "https://www.zdrowagdynia.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Friday",
+        "from": "08:00",
+        "to": "13:00"
+      }
+    ],
+    "targetGroups": [
+      "Parents",
+      "Children"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "OPiTU",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-konsultacja-prawna-smidowicza",
+    "name": {
+      "pl": "Konsultacja prawna",
+      "en": "Legal consultation",
+      "uk": "Legal consultation"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
+      "en": "Free legal advice at the Free Legal Aid Point.",
+      "uk": "Free legal advice at the Free Legal Aid Point."
+    },
+    "descriptionLong": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
+      "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
+      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+    },
+    "address": "ul. Śmidowicza 49",
+    "district": "Śródmieście",
+    "city": "Gdynia",
+    "postalCode": "81-127",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 350 15 15",
+      "email": "biuro@ovum.org.pl",
+      "website": "https://ovum.org.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "from": "09:00",
+        "to": "13:00"
+      },
+      {
+        "day": "Friday",
+        "from": "16:00",
+        "to": "20:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-profilaktyka-uzaleznienia",
+    "name": {
+      "pl": "Poradzimy - Konsultacje z obszaru profilaktyki uzależnień od substancji psychoaktywnych",
+      "en": "We will advise you - Consultations in the field of prevention of addiction to psychoactive substances",
+      "uk": "We will advise you - Consultations in the field of prevention of addiction to psychoactive substances"
+    },
+    "institutionType": "support_group",
+    "categories": [
+      "addiction",
+      "mental_health"
+    ],
+    "descriptionShort": {
+      "pl": "Konsultacje dla rodziców nastolatków zaniepokojonych zachowaniami związanymi z substancjami psychoaktywnymi.",
+      "en": "Consultations for parents of teenagers concerned about behavior related to psychoactive substances.",
+      "uk": "Consultations for parents of teenagers concerned about behavior related to psychoactive substances."
+    },
+    "descriptionLong": {
+      "pl": "Dział Profilaktyki OPiTU oferuje 4 konsultacje indywidualne dla rodziców nastolatków z niepokojącymi zachowaniami związanymi z używaniem substancji psychoaktywnych (e-papierosy, alkohol, marihuana itp.).",
+      "en": "The OPiTU Prevention Department offers 4 individual consultations for parents of teenagers with disturbing behaviors related to the use of psychoactive substances (e-cigarettes, alcohol, marijuana, etc.).",
+      "uk": "The OPiTU Prevention Department offers 4 individual consultations for parents of teenagers with disturbing behaviors related to the use of psychoactive substances (e-cigarettes, alcohol, marijuana, etc.)."
+    },
+    "address": "ul. Al. Zwycięstwa 96/98",
+    "district": "Redłowo",
+    "city": "Gdynia",
+    "postalCode": "81-451",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 518 014 959",
+      "email": "profilaktyka@opitu.pl",
+      "website": "https://www.zdrowagdynia.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Friday",
+        "from": "08:00",
+        "to": "13:00"
+      }
+    ],
+    "targetGroups": [
+      "Parents"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "OPiTU",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-konsultacja-prawna-opata-hackiego",
+    "name": {
+      "pl": "Konsultacja prawna",
+      "en": "Legal consultation",
+      "uk": "Legal consultation"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
+      "en": "Free legal advice at the Free Legal Aid Point.",
+      "uk": "Free legal advice at the Free Legal Aid Point."
+    },
+    "descriptionLong": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
+      "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
+      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+    },
+    "address": "ul. Opata Hackiego 33",
+    "district": "Gdynia",
+    "city": "Gdynia",
+    "postalCode": "81-211",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 350 15 15",
+      "email": "biuro@ovum.org.pl",
+      "website": "https://ovum.org.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Tuesday",
+        "from": "16:00",
+        "to": "20:00"
+      },
+      {
+        "day": "Wednesday",
+        "from": "11:00",
+        "to": "15:00"
+      },
+      {
+        "day": "Saturday",
+        "from": "08:00",
+        "to": "12:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-konsultacja-prawna-widna",
+    "name": {
+      "pl": "Konsultacja prawna",
+      "en": "Legal consultation",
+      "uk": "Legal consultation"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
+      "en": "Free legal advice at the Free Legal Aid Point.",
+      "uk": "Free legal advice at the Free Legal Aid Point."
+    },
+    "descriptionLong": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
+      "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
+      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+    },
+    "address": "ul. Widna 2A",
+    "district": "Chylonia",
+    "city": "Gdynia",
+    "postalCode": "81-649",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 350 15 15",
+      "email": "biuro@ovum.org.pl",
+      "website": "https://ovum.org.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Wednesday",
+        "from": "16:00",
+        "to": "20:00"
+      },
+      {
+        "day": "Friday",
+        "from": "09:00",
+        "to": "13:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-prawo-konsultacja-prawna-chylonska",
+    "name": {
+      "pl": "Konsultacja prawna",
+      "en": "Legal consultation",
+      "uk": "Legal consultation"
+    },
+    "institutionType": "lawyer",
+    "categories": [
+      "legal"
+    ],
+    "descriptionShort": {
+      "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
+      "en": "Free legal advice at the Free Legal Aid Point.",
+      "uk": "Free legal advice at the Free Legal Aid Point."
+    },
+    "descriptionLong": {
+      "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
+      "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
+      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+    },
+    "address": "ul. Chylońska 237",
+    "district": "Chylonia",
+    "city": "Gdynia",
+    "postalCode": "81-007",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 58 350 15 15",
+      "email": "biuro@ovum.org.pl",
+      "website": "https://ovum.org.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Thursday",
+        "from": "11:00",
+        "to": "15:00"
+      }
+    ],
+    "targetGroups": [
+      "Adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "City of Gdynia – legal aid program",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  },
+  {
+    "id": "gw-psy-coucb-wsparcie",
+    "name": {
+      "pl": "Anonimowe wsparcie psychologiczne dla dzieci i młodzieży",
+      "en": "Anonymous psychological support for children and adolescents",
+      "uk": "Anonymous psychological support for children and adolescents"
+    },
+    "institutionType": "hotline",
+    "categories": [
+      "mental_health"
+    ],
+    "descriptionShort": {
+      "pl": "Zdalne wsparcie psychologiczne dla dzieci i młodzieży.",
+      "en": "Remote psychological support for children and adolescents.",
+      "uk": "Remote psychological support for children and adolescents."
+    },
+    "descriptionLong": {
+      "pl": "Coucb linia wsparcia oferuje anonimowe wsparcie psychologiczne na czacie i telefonie dla dzieci oraz młodzieży.",
+      "en": "Coucb support line offers anonymous psychological support via chat and telephone for children and adolescents.",
+      "uk": "Coucb support line offers anonymous psychological support via chat and telephone for children and adolescents."
+    },
+    "address": "ul. Wejherowska 65",
+    "district": "Dąbrowa",
+    "city": "Gdynia",
+    "postalCode": "81-000",
+    "location": {
+      "lat": 54.5189,
+      "lng": 18.5305
+    },
+    "contact": {
+      "phone": "+48 585 00 88 85",
+      "website": "https://www.coucb.pl/"
+    },
+    "openingHours": [
+      {
+        "day": "Monday–Sunday",
+        "from": "12:00",
+        "to": "20:00"
+      }
+    ],
+    "targetGroups": [
+      "Children",
+      "Young adults"
+    ],
+    "languagesOffered": [
+      "Polish"
+    ],
+    "isOnlineAvailable": true,
+    "verifiedBy": "Coucb",
+    "lastUpdated": "2026-03-08",
+    "isFree": true
+  }
+]

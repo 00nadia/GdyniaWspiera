@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "offers": "Oferty pomocy",
+    "howToUse": "Jak korzystać",
+    "about": "O instytucji",
+    "helpOthers": "Chcę pomagać"
+  },
+  "hero": {
+    "title": "Pomoc w Gdyni, gdy życie jest trudne",
+    "subtitle": "Znajdź bezpłatne, zweryfikowane i aktualne oferty wsparcia psychologicznego, prawnego i społecznego w Gdyni – dla siebie lub kogoś bliskiego.",
+    "needHelp": "Szukam pomocy",
+    "wantToHelp": "Chcę pomagać / przekazać darowiznę"
+  },
+  "common": {
+    "free": "Bezpłatne wsparcie",
+    "verified": "Zweryfikowane oferty",
+    "multiLanguage": "Wiele języków",
+    "homeInstitutionLabel": "Instytucja prowadząca",
+    "homeInstitution": "Miasto Gdynia – instytucje pomocy i wsparcia"
+  },
+  "languages": {
+    "pl": "Polski",
+    "en": "English",
+    "uk": "Українська"
+  }
+}
