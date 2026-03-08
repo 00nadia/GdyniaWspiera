@@ -215,10 +215,19 @@
     "homeInstitutionLabel": "Home institution",
     "homeInstitution": "City of Gdynia – social support institutions"
   },
-  "languages": {
-    "pl": "Polish",
-    "en": "English",
-    "uk": "Ukrainian"
+"languages": {
+    "pl": {
+      "name": "Polski",
+      "flag": "/assets/pl.jpg"
+    },
+    "en": {
+      "name": "English",
+      "flag": "/assets/eng.jpg"
+    },
+    "uk": {
+      "name": "Українська",
+      "flag": "/assets/uk.jpg"
+    }
   },
   "contact": {
     "intro": "Get in touch with us for support or information.",
