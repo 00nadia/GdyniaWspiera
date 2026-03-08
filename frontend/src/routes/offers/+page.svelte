@@ -7,6 +7,7 @@
 	import OfferMap from '$lib/components/OfferMap.svelte';
 
 	let { data }: { data: PageData } = $props();
+	let ctaHovered = $state(false);
 
 	let filter: OfferFilter = {
 		query: data.initialQuery,
@@ -148,6 +149,49 @@
 			{/if}
 		{/await}
 	</div>
+</section>
+
+<!-- Call to Action Section -->
+<section
+	aria-labelledby="cta-title"
+	style="
+		margin-top: 3rem;
+		padding: 2.5rem;
+		background: linear-gradient(135deg, rgba(0, 86, 166, 0.08) 0%, rgba(0, 166, 180, 0.08) 100%);
+		border: 1px solid rgba(0, 86, 166, 0.12);
+		border-radius: 16px;
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+		align-items: center;
+	"
+>
+	<h2 id="cta-title" style="margin: 0; font-size: 1.5rem; color: var(--color-text);">
+		{$t('offers.notFoundTitle')}
+	</h2>
+	<p style="margin: 0; color: var(--color-text-muted); max-width: 500px; font-size: 1rem;">
+		{$t('offers.notFoundDesc')}
+	</p>
+	<a
+		href="/submit-problem"
+		style="
+			padding: 0.75rem 1.8rem;
+			border-radius: 999px;
+			background: var(--color-primary);
+			color: white;
+			font-weight: 600;
+			text-decoration: none;
+			display: inline-block;
+			margin-top: 0.5rem;
+			transition: opacity 0.2s ease;
+			{ctaHovered ? 'opacity: 0.9;' : 'opacity: 1;'}
+		"
+		onmouseover={() => (ctaHovered = true)}
+		onmouseout={() => (ctaHovered = false)}
+	>
+		{$t('offers.notFoundButton')}
+	</a>
 </section>
 
 <style>

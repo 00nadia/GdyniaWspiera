@@ -2,6 +2,7 @@
   "nav": {
     "home": "Main page",
     "offers": "Offers",
+    "submitProblem": "Share Your Problem",
     "howToUse": "How to use",
     "about": "About institution",
     "helpOthers": "Help others",
@@ -115,7 +116,10 @@
     "searchKeyword": "Search by keyword",
     "keywordPlaceholder": "e.g. violence, rent, lawyer...",
     "noResults": "No offers match the selected filters.",
-    "noResultsHint": "Try removing some filters or using a different keyword."
+    "noResultsHint": "Try removing some filters or using a different keyword.",
+    "notFoundTitle": "Haven't found suitable help?",
+    "notFoundDesc": "Share your problem and an institution worker will contact you to suggest the best help available.",
+    "notFoundButton": "Describe your problem"
   },
   "offerDetail": {
     "backToOffers": "← Back to offers",
@@ -153,6 +157,32 @@
     "highContrast": "High contrast mode",
     "blackWhite": "Black and white mode",
     "language": "Language"
+  },
+  "submitProblem": {
+    "title": "Share Your Problem",
+    "subtitle": "Describe your situation so we can better help you. All information is kept confidential.",
+    "personalInfo": "Personal Information",
+    "firstName": "First name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last name",
+    "lastNamePlaceholder": "Enter your last name",
+    "email": "Email",
+    "emailPlaceholder": "Your email address",
+    "phone": "Phone number",
+    "phonePlaceholder": "Your phone number (optional)",
+    "problemInfo": "Problem Information",
+    "problemCategory": "Problem category",
+    "selectCategory": "Select a category",
+    "problemDescription": "Describe your problem",
+    "problemDescriptionPlaceholder": "Describe in detail what problem you are facing and what kind of help you would need...",
+    "additionalDetails": "Additional information",
+    "additionalDetailsPlaceholder": "Any other important information that might help us (optional)...",
+    "submitButton": "Submit",
+    "submitting": "Submitting...",
+    "validationError": "Please fill in all fields marked with an asterisk (*).",
+    "successMessage": "Thank you! Your submission has been sent. We will contact you soon.",
+    "errorMessage": "Something went wrong. Please try again or contact us directly.",
+    "privacyNote": "Your personal data is protected and will only be used to provide you with assistance."
   },
   "map": {
     "title": "Offers on map",

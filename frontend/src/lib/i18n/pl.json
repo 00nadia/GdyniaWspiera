@@ -2,6 +2,7 @@
   "nav": {
     "home": "Strona główna",
     "offers": "Oferty pomocy",
+    "submitProblem": "Podziel się problemem",
     "howToUse": "Jak korzystać",
     "about": "O instytucji",
     "helpOthers": "Chcę pomagać",
@@ -115,7 +116,10 @@
     "searchKeyword": "Szukaj po słowie kluczowym",
     "keywordPlaceholder": "np. przemoc, czynsz, prawnik...",
     "noResults": "Brak ofert pasujących do wybranych filtrów.",
-    "noResultsHint": "Spróbuj usunąć niektóre filtry lub użyj innego słowa kluczowego."
+    "noResultsHint": "Spróbuj usunąć niektóre filtry lub użyj innego słowa kluczowego.",
+    "notFoundTitle": "Nie znalazłeś/ znalazłaś odpowiedniej oferty?",
+    "notFoundDesc": "Podziel się swoim problemem, a pracownik instytucji skontaktuje się z Tobą, aby zaproponować najlepszą pomoc.",
+    "notFoundButton": "Opisz swój problem"
   },
   "offerDetail": {
     "backToOffers": "← Wróć do ofert",
@@ -153,6 +157,32 @@
     "highContrast": "Tryb wysokokontrastowy",
     "blackWhite": "Tryb czarno-biały",
     "language": "Język"
+  },
+  "submitProblem": {
+    "title": "Podziel się swoim problemem",
+    "subtitle": "Opisz swoją sytuację, abyśmy mogli lepiej Ci pomóc. Wszystkie informacje pozostają poufne.",
+    "personalInfo": "Informacje osobiste",
+    "firstName": "Imię",
+    "firstNamePlaceholder": "Wpisz swoje imię",
+    "lastName": "Nazwisko",
+    "lastNamePlaceholder": "Wpisz swoje nazwisko",
+    "email": "E-mail",
+    "emailPlaceholder": "Twój adres e-mail",
+    "phone": "Numer telefonu",
+    "phonePlaceholder": "Twój numer telefonu (opcjonalnie)",
+    "problemInfo": "Informacje o problemie",
+    "problemCategory": "Kategoria problemu",
+    "selectCategory": "Wybierz kategorię",
+    "problemDescription": "Opisz swój problem",
+    "problemDescriptionPlaceholder": "Opisz dokładnie, z jakim problemem się borykasz i jaką pomoc byś potrzebował/a...",
+    "additionalDetails": "Dodatkowe informacje",
+    "additionalDetailsPlaceholder": "Inne ważne informacje, które mogą nam pomóc (opcjonalnie)...",
+    "submitButton": "Wyślij zgłoszenie",
+    "submitting": "Wysyłanie...",
+    "validationError": "Proszę wypełnić wszystkie pola oznaczone gwiazdką (*).",
+    "successMessage": "Dziękujemy! Twoje zgłoszenie zostało wysłane. Skontaktujemy się z Tobą wkrótce.",
+    "errorMessage": "Coś poszło nie tak. Spróbuj ponownie lub skontaktuj się z nami bezpośrednio.",
+    "privacyNote": "Twoje dane osobowe są chronione i będą używane wyłącznie do udzielenia Ci pomocy."
   },
   "map": {
     "title": "Oferty na mapie",
@@ -199,5 +229,4 @@
     "addressLabel": "Adres",
     "address": "ul. Świętojańska 123, 81-350 Gdynia"
   }
-
 }
