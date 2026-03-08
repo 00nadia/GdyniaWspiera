@@ -6,7 +6,8 @@
     "howToUse": "Jak korzystać",
     "about": "O instytucji",
     "helpOthers": "Chcę pomagać",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "give": "Chcę oddać"
   },
   "hero": {
     "title": "Pomoc w Gdyni, gdy życie jest trudne",
@@ -219,6 +220,22 @@
     "pl": "Polski",
     "en": "English",
     "uk": "Українська"
+  },
+  "giveDetail": {
+    "backToList": "← Wróć do listy"
+  },
+  "give": {
+    "subtitle": "Przeglądaj punkty przyjmowania darowizn. Znajdź miejsce, gdzie możesz oddać żywność, ubrania lub inne potrzebne rzeczy.",
+    "filters": "Filtry",
+    "categoryLabel": "Kategoria",
+    "cat_food": "Żywność",
+    "cat_clothing": "Odzież",
+    "cat_other": "Inne",
+    "searchLabel": "Szukaj",
+    "searchPlaceholder": "Wpisz nazwę, miejsce lub słowo kluczowe…",
+    "noResults": "Brak wyników spełniających kryteria.",
+    "noResultsHint": "Spróbuj zmienić filtry lub wyszukaj inne słowo kluczowe.",
+    "moreInfo": "Więcej informacji"
   },
   "contact": {
     "intro": "Skontaktuj się z nami w sprawie wsparcia lub informacji.",
