@@ -104,5 +104,12 @@ Aplikacja jest w pełni statyczna (brak backendu) i może zostać wdrożona na d
 - **Netlify** — podłączenie repozytorium z komendą build `cd frontend && npm run build`
 - **Hosting statyczny** — po zbudowaniu pliki z katalogu `build/` można serwować dowolnym serwerem HTTP
 
+## Autorzy
+
+- Monika Depka Pradzinska
+- Nadia Tyburska
+- Mateusz Boniecki
+- Mikolaj Gozdzielewski
+
 
 
