@@ -33,6 +33,7 @@
 
 <header class="layout-header">
 	<div class="brand" aria-label="Gdynia Wspiera">
+	<a href="/" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
 	<div >
 <!-- <?xml version="1.0" encoding="UTF-8"?> -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 1408 768">
@@ -523,7 +524,7 @@
 <path d="M0 0 C-1.4562545 0.67119549 -2.91507867 1.33681807 -4.375 2 C-5.59316406 2.556875 -5.59316406 2.556875 -6.8359375 3.125 C-9 4 -9 4 -11 4 C-10.67 3.01 -10.34 2.02 -10 1 C-6.19730268 -0.6900877 -3.94727832 -1.19873962 0 0 Z " fill="#D9EFF5" transform="translate(749,261)"/>
 <path d="M0 0 C0.33 0.66 0.66 1.32 1 2 C-0.32 3.65 -1.64 5.3 -3 7 C-3.99 6.67 -4.98 6.34 -6 6 C-4.02 4.02 -2.04 2.04 0 0 Z " fill="#7EB4AC" transform="translate(807,160)"/>
 </svg>
-</div>
+</div></a>
 
 		<div class="brand-text">
 			<div class="brand-title">Gdynia Wspiera</div>
