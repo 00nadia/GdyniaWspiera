@@ -4,7 +4,8 @@
     "offers": "Offers",
     "howToUse": "How to use",
     "about": "About institution",
-    "helpOthers": "Help others"
+    "helpOthers": "Help others",
+    "contact": "Contact"
   },
   "hero": {
     "title": "Help in Gdynia, when life is difficult",
@@ -157,5 +158,14 @@
     "pl": "Polish",
     "en": "English",
     "uk": "Ukrainian"
+  },
+  "contact": {
+    "intro": "Get in touch with us for support or information.",
+    "emailLabel": "Email",
+    "email": "kontakt@gdyniawspiera.pl",
+    "phoneLabel": "Phone",
+    "phone": "+48 58 123 45 67",
+    "addressLabel": "Address",
+    "address": "ul. Świętojańska 123, 81-350 Gdynia, Poland"
   }
 }
