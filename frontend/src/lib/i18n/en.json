@@ -6,7 +6,8 @@
     "howToUse": "How to use",
     "about": "About institution",
     "helpOthers": "Help others",
-    "contact": "Contact"
+    "contact": "Contact",
+    "give": "Give"
   },
   "hero": {
     "title": "Help in Gdynia, when life is difficult",
@@ -215,10 +216,35 @@
     "homeInstitutionLabel": "Home institution",
     "homeInstitution": "City of Gdynia – social support institutions"
   },
-  "languages": {
-    "pl": "Polish",
-    "en": "English",
-    "uk": "Ukrainian"
+"languages": {
+    "pl": {
+      "name": "Polski",
+      "flag": "/assets/pl.jpg"
+    },
+    "en": {
+      "name": "English",
+      "flag": "/assets/eng.jpg"
+    },
+    "uk": {
+      "name": "Українська",
+      "flag": "/assets/uk.jpg"
+    }
+  },
+  "giveDetail": {
+    "backToList": "← Back to list"
+  },
+  "give": {
+    "subtitle": "Browse donation points. Find a place where you can give food, clothing or other needed items.",
+    "filters": "Filters",
+    "categoryLabel": "Category",
+    "cat_food": "Food",
+    "cat_clothing": "Clothing",
+    "cat_other": "Other",
+    "searchLabel": "Search",
+    "searchPlaceholder": "Type a name, place or keyword…",
+    "noResults": "No results matching your criteria.",
+    "noResultsHint": "Try changing the filters or searching for a different keyword.",
+    "moreInfo": "More information"
   },
   "contact": {
     "intro": "Get in touch with us for support or information.",
