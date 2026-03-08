@@ -12,7 +12,6 @@
 	const navLinks = [
 		{ href: '/', key: 'nav.home' },
 		{ href: '/offers', key: 'nav.offers' },
-		{ href: '/how-to-use', key: 'nav.howToUse' },
 		{ href: '/about', key: 'nav.about' },
 		{ href: '/help-others', key: 'nav.helpOthers' }
 	];

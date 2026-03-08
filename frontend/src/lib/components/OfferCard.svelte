@@ -1,7 +1,11 @@
 <script lang="ts">
 	import type { Offer } from '$lib/types/offers';
+	import { getText } from '$lib/types/offers';
+	import { locale } from '$lib/i18n';
 
 	let { offer }: { offer: Offer } = $props();
+	let currentLang = $derived($locale);
+
 </script>
 
 <article
@@ -18,7 +22,7 @@
 >
 	<header style="display: flex; justify-content: space-between; gap: 0.75rem; align-items: flex-start;">
 		<div>
-			<h3 style="margin: 0 0 0.15rem; font-size: 1rem;">{offer.name}</h3>
+			<h3 style="margin: 0 0 0.15rem; font-size: 1rem;">{getText(offer.name, currentLang)}</h3>
 			<div style="font-size: 0.8rem; color: var(--color-text-muted);">
 				{offer.address}, {offer.district}
 			</div>
@@ -42,7 +46,7 @@
 	</header>
 
 	<p style="margin: 0; font-size: 0.9rem; color: var(--color-text-muted);">
-		{offer.descriptionShort}
+		{getText(offer.descriptionShort, currentLang)}
 	</p>
 
 	<div style="display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.3rem; font-size: 0.75rem;">

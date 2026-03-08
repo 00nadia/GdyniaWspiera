@@ -1,10 +1,17 @@
-import type { Offer, ProblemCategory, InstitutionType } from '$lib/types/offers';
+import type { Offer, ProblemCategory, InstitutionType, Multilingual } from '$lib/types/offers';
 
 export interface OfferFilter {
 	query?: string;
 	category?: ProblemCategory | '';
 	institutionType?: InstitutionType | '';
 	district?: string;
+}
+
+function getSearchText(text: Multilingual | string): string {
+	if (typeof text === 'string') {
+		return text;
+	}
+	return `${text.pl} ${text.en} ${text.uk}`;
 }
 
 export function filterOffers(offers: Offer[], filter: OfferFilter): Offer[] {
@@ -16,9 +23,9 @@ export function filterOffers(offers: Offer[], filter: OfferFilter): Offer[] {
 
 		if (q) {
 			const haystack = [
-				offer.name,
-				offer.descriptionShort,
-				offer.descriptionLong,
+				getSearchText(offer.name),
+				getSearchText(offer.descriptionShort),
+				getSearchText(offer.descriptionLong),
 				offer.district,
 				offer.categories.join(' '),
 				offer.institutionType
@@ -31,4 +38,3 @@ export function filterOffers(offers: Offer[], filter: OfferFilter): Offer[] {
 		return true;
 	});
 }
-
