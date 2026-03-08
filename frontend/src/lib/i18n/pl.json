@@ -58,13 +58,13 @@
   "about": {
     "description": "<strong>Gdynia Wspiera</strong> to Twój zaufany przewodnik po darmowej, zweryfikowanej pomocy społecznej w Gdyni...",
     "missionTitle": "Nasza misja",
-    "missionDesc": "Zbieramy, weryfikujemy i aktualizujemy informacje o dostępnej pomocy społecznej...",
+    "missionDesc": "Zbieramy, weryfikujemy i na bieżąco aktualizujemy informacje o bezpłatnych formach wsparcia społecznego dostępnych dla mieszkańców Gdyni. Niezależnie od tego, czy zmagasz się z problemami zdrowia psychicznego, trudnościami finansowymi, przemocą domową, uzależnieniem czy innymi wyzwaniami życiowymi — jesteśmy tutaj, aby pomóc Ci znaleźć odpowiednie źródła wsparcia.",
     "trustTitle": "Dlaczego nam zaufać?",
-    "trustDesc": "Nasze oferty pochodzą z instytucji publicznych, NGO i sprawdzonych partnerów...",
+    "trustDesc": "Nasze oferty pochodzą z instytucji publicznych, organizacji pozarządowych oraz od starannie sprawdzonych, zaufanych partnerów. Każda oferta jest dokładnie weryfikowana pod kątem dostępności, dostępności dla użytkowników, zakresu wsparcia oraz poprawności danych kontaktowych, zanim zostanie tutaj opublikowana.",
     "gettingStartedTitle": "Jak zacząć",
-    "gettingStartedDesc": "Przejdź do naszej strony <a href='/offers'>Oferty</a> i wybierz pomoc dla swoich potrzeb...",
+    "gettingStartedDesc": "Przejdź do naszej strony <a href='/offers'>Oferty</a> i znajdź pomoc dopasowaną do Twoich potrzeb. Skorzystaj z filtrów, aby zawęzić wyniki według rodzaju wsparcia, lokalizacji lub pomocy online. Każda oferta jest całkowicie bezpłatna.",
     "wantToHelpTitle": "Chcesz pomóc?",
-    "wantToHelpDesc": "Jeśli reprezentujesz organizację, która oferuje wsparcie społeczne w Gdyni...",
+    "wantToHelpDesc": "Jeśli reprezentujesz organizację oferującą wsparcie społeczne w Gdyni, chętnie się z Tobą skontaktujemy. Skontaktuj się z instytucjami wsparcia społecznego Miasta Gdyni poprzez oficjalne kanały, aby dodać lub zaktualizować swoją ofertę.",
     "emergencyNotice": "W nagłych wypadkach najpierw kontaktuj się z numerem alarmowym (112)."
   },
   "helpOthers": {
