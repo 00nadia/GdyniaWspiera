@@ -35,13 +35,19 @@ export interface LatLng {
 	lng: number;
 }
 
+export interface Multilingual {
+	pl: string;
+	en: string;
+	uk: string;
+}
+
 export interface Offer {
 	id: string;
-	name: string;
+	name: Multilingual | string;
 	institutionType: InstitutionType;
 	categories: ProblemCategory[];
-	descriptionShort: string;
-	descriptionLong: string;
+	descriptionShort: Multilingual | string;
+	descriptionLong: Multilingual | string;
 	address: string;
 	district: string;
 	city: string;
@@ -55,5 +61,16 @@ export interface Offer {
 	verifiedBy: string;
 	lastUpdated: string;
 	isFree: boolean;
+}
+
+// Helper function to get text in a specific language
+export function getText(
+	text: Multilingual | string,
+	lang: 'pl' | 'en' | 'uk' = 'pl'
+): string {
+	if (typeof text === 'string') {
+		return text;
+	}
+	return text[lang] || text.pl;
 }
 

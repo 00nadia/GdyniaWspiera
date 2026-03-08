@@ -1,8 +1,11 @@
 <script lang="ts">
 	import type { PageData } from './$types';
+	import { getText } from '$lib/types/offers';
+	import { locale } from '$lib/i18n';
 
 	let { data }: { data: PageData } = $props();
 	const offer = data.offer!;
+	let currentLang = $derived($locale);
 
 	const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${offer.address}, ${offer.city}`)}`;
 </script>
@@ -25,7 +28,7 @@
 >
 	<section>
 		<header>
-			<h1 id="offer-title" style="margin: 0 0 0.4rem; font-size: 1.5rem;">{offer.name}</h1>
+			<h1 id="offer-title" style="margin: 0 0 0.4rem; font-size: 1.5rem;">{getText(offer.name, currentLang)}</h1>
 			<div style="font-size: 0.9rem; color: var(--color-text-muted);">
 				{offer.address}, {offer.district}, {offer.city}
 			</div>
@@ -65,7 +68,7 @@
 		</header>
 
 		<section style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.5;">
-			<p style="white-space: pre-line; margin: 0 0 0.75rem;">{offer.descriptionLong}</p>
+			<p style="white-space: pre-line; margin: 0 0 0.75rem;">{getText(offer.descriptionLong, currentLang)}</p>
 
 			<div style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--color-text-muted);">
 				<div><strong>Target groups:</strong> {offer.targetGroups.join(', ')}</div>

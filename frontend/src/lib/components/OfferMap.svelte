@@ -1,12 +1,15 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import type { Offer } from '$lib/types/offers';
+	import { getText } from '$lib/types/offers';
+	import { locale } from '$lib/i18n';
 
 	let { offers, zoom = 12 }: { offers: Offer[]; zoom?: number } = $props();
 
 	let mapContainer: HTMLDivElement | null = null;
 	let isReady = $state(false);
 	let error = $state<string | null>(null);
+	let currentLang = $derived($locale);
 
 	const loadScript = () =>
 		new Promise<void>((resolve, reject) => {
@@ -64,14 +67,15 @@
 			});
 
 			offers.forEach((offer) => {
+				const offerName = getText(offer.name, currentLang);
 				const marker = new google.maps.Marker({
 					position: offer.location,
 					map,
-					title: offer.name
+					title: offerName
 				});
 
 				const info = new google.maps.InfoWindow({
-					content: `<strong>${offer.name}</strong><br/>${offer.address}<br/><a href="/offers/${offer.id}">Details</a>`
+					content: `<strong>${offerName}</strong><br/>${offer.address}<br/><a href="/offers/${offer.id}">Details</a>`
 				});
 
 				marker.addListener('click', () => {
