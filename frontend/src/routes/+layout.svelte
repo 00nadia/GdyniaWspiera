@@ -560,11 +560,7 @@
 	<div class="layout-footer-inner">
 		<div class="layout-footer-top">
 			<div>{$t('layout.footerDesc')}</div>
-			<div class="layout-footer-links">
-				<span class="pill">{$t('common.free')}</span>
-				<span class="pill">{$t('common.verified')}</span>
-				<span class="pill">{$t('common.multiLanguage')}</span>
-			</div>
+			
 		</div>
 		<div>
 			<span>{$t('common.homeInstitutionLabel')}: </span>
