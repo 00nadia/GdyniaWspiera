@@ -9,12 +9,12 @@
 	let { data }: { data: PageData } = $props();
 	let ctaHovered = $state(false);
 
-	let filter: OfferFilter = {
+	let filter = $state<OfferFilter>({
 		query: data.initialQuery,
 		institutionType: (data.initialType || '') as OfferFilter['institutionType'],
 		category: '',
 		district: 'all'
-	};
+	});
 
 	const getVisibleOffers = () => filterOffers(data.offers, filter);
 </script>
@@ -120,34 +120,30 @@
 	</form>
 
 	<div style="display: flex; flex-direction: column; gap: 0.75rem;">
-		{#await Promise.resolve(getVisibleOffers()) then visibleOffers}
-			<div style="display: flex; flex-direction: column; gap: 0.75rem;">
-				{#if visibleOffers.length === 0}
-				<div
-					style="
-						padding: 1rem 1.2rem;
-						border-radius: 16px;
-						background: rgba(255, 255, 255, 0.96);
-						box-shadow: 0 8px 20px rgba(9, 25, 53, 0.08);
-						font-size: 0.9rem;
-					"
-				>
-					<strong>{$t('offers.noResults')}</strong>
-					<div style="margin-top: 0.25rem; color: var(--color-text-muted);">
-						{$t('offers.noResultsHint')}
-					</div>
+		{#if getVisibleOffers().length === 0}
+			<div
+				style="
+					padding: 1rem 1.2rem;
+					border-radius: 16px;
+					background: rgba(255, 255, 255, 0.96);
+					box-shadow: 0 8px 20px rgba(9, 25, 53, 0.08);
+					font-size: 0.9rem;
+				"
+			>
+				<strong>{$t('offers.noResults')}</strong>
+				<div style="margin-top: 0.25rem; color: var(--color-text-muted);">
+					{$t('offers.noResultsHint')}
 				</div>
-			{:else}
-					{#each visibleOffers as offer}
-						<OfferCard {offer} />
-					{/each}
-				{/if}
 			</div>
+		{:else}
+			{#each getVisibleOffers() as offer}
+				<OfferCard {offer} />
+			{/each}
+		{/if}
 
-			{#if visibleOffers.length > 0}
-				<OfferMap offers={visibleOffers} />
-			{/if}
-		{/await}
+		{#if getVisibleOffers().length > 0}
+			<OfferMap offers={getVisibleOffers()} />
+		{/if}
 	</div>
 </section>
 
