@@ -1,7 +1,7 @@
 <script lang="ts">
 	import '../app.css';
 	import favicon from '$lib/assets/favicon.svg';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 	import { onMount } from 'svelte';
 	import { setupI18n, t } from '$lib/i18n';
 	import LanguageSwitcher from '$lib/components/LanguageSwitcher.svelte';
@@ -538,7 +538,7 @@
 				<a
 					href={link.href}
 					class="primary-nav-link"
-					data-active={$page.url.pathname === link.href ? 'true' : 'false'}
+					data-active={page.url.pathname === link.href || (link.href !== '/' && page.url.pathname.startsWith(link.href + '/')) ? 'true' : 'false'}
 				>
 					{$t(link.key)}
 				</a>
