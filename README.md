@@ -77,10 +77,6 @@ To ensure that access to essential support services is never complicated or cost
 - **[PostgreSQL](https://www.postgresql.org/)** - Reliable relational database
 - **Standard Library** - HTTP and database handling
 
-### DevOps
-- **[Docker](https://www.docker.com/)** - Containerization
-- **[Docker Compose](https://docs.docker.com/compose/)** - Multi-container orchestration
-
 ---
 
 ## 📂 Project Structure
@@ -123,7 +119,6 @@ GdyniaWspiera/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/)
 - [Node.js](https://nodejs.org/) (v18+ recommended)
 - [Go](https://golang.org/) (v1.19+ recommended)
 
@@ -162,9 +157,7 @@ go run main.go
 Runs on http://localhost:4000
 
 #### Database
-```bash
-docker-compose up db
-```
+
 PostgreSQL runs on localhost:5432
 
 ### Environment Variables
@@ -316,4 +309,5 @@ We welcome contributions from developers, designers, and community members!
 ---
 
 **Gdynia Wspiera** - Because everyone deserves access to help when they need it. 🤝
+
 
