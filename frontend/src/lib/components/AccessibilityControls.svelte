@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { fontSize, colorMode, type FontSize, type ColorMode } from '$lib/stores/accessibility';
 	import { get } from 'svelte/store';
+	import { t } from '$lib/i18n';
 
 	let currentFont: FontSize = get(fontSize);
 	let currentColor: ColorMode = get(colorMode);
@@ -17,7 +18,7 @@
 </script>
 
 <div
-	aria-label="Accessibility settings"
+	aria-label={$t('accessibility.settings')}
 	style="
 		display: inline-flex;
 		align-items: center;
@@ -32,7 +33,7 @@
 		<button
 			type="button"
 			on:click={() => setFont('normal')}
-			aria-label="Standard font size"
+			aria-label={$t('accessibility.fontNormal')}
 			style="
 				border-radius: 999px;
 				border: none;
@@ -47,7 +48,7 @@
 		<button
 			type="button"
 			on:click={() => setFont('large')}
-			aria-label="Large font size"
+			aria-label={$t('accessibility.fontLarge')}
 			style="
 				border-radius: 999px;
 				border: none;
@@ -62,7 +63,7 @@
 		<button
 			type="button"
 			on:click={() => setFont('xlarge')}
-			aria-label="Extra large font size"
+			aria-label={$t('accessibility.fontXLarge')}
 			style="
 				border-radius: 999px;
 				border: none;
@@ -88,7 +89,7 @@
 		<button
 			type="button"
 			on:click={() => setColor('color')}
-			aria-label="Color version"
+			aria-label={$t('accessibility.colorVersion')}
 			style="
 				width: 0.8rem;
 				height: 0.8rem;
@@ -102,7 +103,7 @@
 		<button
 			type="button"
 			on:click={() => setColor('high-contrast')}
-			aria-label="High contrast mode"
+			aria-label={$t('accessibility.highContrast')}
 			style="
 				width: 0.8rem;
 				height: 0.8rem;
@@ -116,7 +117,7 @@
 		<button
 			type="button"
 			on:click={() => setColor('mono')}
-			aria-label="Black and white mode"
+			aria-label={$t('accessibility.blackWhite')}
 			style="
 				width: 0.8rem;
 				height: 0.8rem;

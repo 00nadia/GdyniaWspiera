@@ -39,7 +39,7 @@
 						font-weight: 600;
 					"
 				>
-					I need help
+					{$t('hero.needHelp')}
 				</a>
 				<a
 					href="/offers?mode=help-others"
@@ -51,7 +51,7 @@
 						font-weight: 500;
 					"
 				>
-					I want to help / donate
+					{$t('hero.wantToHelp')}
 				</a>
 			</div>
 
@@ -65,12 +65,12 @@
 				"
 			>
 				<div>
-					<div style="font-weight: 600; margin-bottom: 0.25rem;">Always free</div>
-					<div>All offers in the browser are free of charge.</div>
+					<div style="font-weight: 600; margin-bottom: 0.25rem;">{$t('hero.alwaysFree')}</div>
+					<div>{$t('hero.alwaysFreeDesc')}</div>
 				</div>
 				<div>
-					<div style="font-weight: 600; margin-bottom: 0.25rem;">Verified and up to date</div>
-					<div>Each offer is checked by the home institution.</div>
+					<div style="font-weight: 600; margin-bottom: 0.25rem;">{$t('hero.verifiedUpToDate')}</div>
+					<div>{$t('hero.verifiedUpToDateDesc')}</div>
 				</div>
 			</div>
 		</div>
@@ -101,7 +101,7 @@
 			></div>
 			<div style="position: relative; z-index: 1; display: flex; flex-direction: column; gap: 0.6rem;">
 				<div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.16em;">
-					Categories of support
+					{$t('categories.title')}
 				</div>
 				<div
 					style="
@@ -111,14 +111,14 @@
 						font-size: 0.86rem;
 					"
 				>
-					<div>• Violence and abuse</div>
-					<div>• Addiction</div>
-					<div>• Financial difficulties</div>
-					<div>• Mental health</div>
-					<div>• Homelessness & housing</div>
-					<div>• Family and upbringing</div>
-					<div>• Legal problems</div>
-					<div>• Migration and integration</div>
+					<div>• {$t('categories.abuse')}</div>
+					<div>• {$t('categories.addiction')}</div>
+					<div>• {$t('categories.financial')}</div>
+					<div>• {$t('categories.mentalHealth')}</div>
+					<div>• {$t('categories.housing')}</div>
+					<div>• {$t('categories.family')}</div>
+					<div>• {$t('categories.legal')}</div>
+					<div>• {$t('categories.migration')}</div>
 				</div>
 			</div>
 		</div>
@@ -127,9 +127,9 @@
 
 <section aria-labelledby="search-title" style="margin-bottom: 2.25rem;">
 	<div style="margin-bottom: 0.75rem;">
-		<h2 id="search-title" style="margin: 0 0 0.4rem; font-size: 1.2rem;">Quick search</h2>
+		<h2 id="search-title" style="margin: 0 0 0.4rem; font-size: 1.2rem;">{$t('search.title')}</h2>
 		<p style="margin: 0; color: var(--color-text-muted); font-size: 0.9rem;">
-			Search by problem, type of help or institution name.
+			{$t('search.subtitle')}
 		</p>
 	</div>
 
@@ -148,11 +148,11 @@
 		"
 	>
 		<label style="display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.8rem;">
-			<span>What do you need help with?</span>
+			<span>{$t('search.whatHelp')}</span>
 			<input
 				name="q"
 				type="search"
-				placeholder="e.g. violence, addiction, rent arrears..."
+				placeholder={$t('search.placeholder')}
 				style="
 					border: none;
 					outline: none;
@@ -164,7 +164,7 @@
 		</label>
 
 		<label style="display: flex; flex-direction: column; gap: 0.2rem; font-size: 0.8rem;">
-			<span>Type of support</span>
+			<span>{$t('search.typeOfSupport')}</span>
 			<select
 				name="type"
 				style="
@@ -174,12 +174,12 @@
 					font-size: 0.9rem;
 				"
 			>
-				<option value="">Any</option>
-				<option value="therapy">Therapy / counselling</option>
-				<option value="legal">Legal advice</option>
-				<option value="social">Social work / intervention</option>
-				<option value="group">Support group</option>
-				<option value="financial">Financial counselling</option>
+				<option value="">{$t('search.any')}</option>
+				<option value="therapy">{$t('search.therapy')}</option>
+				<option value="legal">{$t('search.legalAdvice')}</option>
+				<option value="social">{$t('search.socialWork')}</option>
+				<option value="group">{$t('search.supportGroup')}</option>
+				<option value="financial">{$t('search.financialCounselling')}</option>
 			</select>
 		</label>
 
@@ -195,24 +195,22 @@
 				cursor: pointer;
 			"
 		>
-			Search offers
+			{$t('search.searchOffers')}
 		</button>
 	</form>
 </section>
 
 <section aria-labelledby="info-title">
-	<h2 id="info-title" style="margin: 0 0 0.75rem; font-size: 1.2rem;">What is Gdynia Wspiera?</h2>
+	<h2 id="info-title" style="margin: 0 0 0.75rem; font-size: 1.2rem;">{$t('info.title')}</h2>
   
 	<p style="margin: 0 0 0.6rem; color: var(--color-text-muted); font-size: 0.95rem;">
-		This browser collects social help offers for people experiencing difficulties in everyday life – related to
-		violence, addiction, finances, health, family and other challenges.
+		{$t('info.p1')}
 	</p>
 	<p style="margin: 0 0 0.6rem; color: var(--color-text-muted); font-size: 0.95rem;">
-		All offers are free of charge, up to date and checked by the home institution responsible for the service.
+		{$t('info.p2')}
 	</p>
 	<p style="margin: 0; color: var(--color-text-muted); font-size: 0.95rem;">
-		You will find information about the type of support, who it is for, where it is provided and how to contact the
-		center – including therapists, lawyers, social workers and many more.
+		{$t('info.p3')}
 	</p>
 </section>
 

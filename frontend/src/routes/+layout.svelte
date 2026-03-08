@@ -26,14 +26,14 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-<a class="skip-link" href="#main-content">Skip to main content</a>
+<a class="skip-link" href="#main-content">{$t('layout.skipToContent')}</a>
 
 <header class="layout-header">
 	<div class="brand" aria-label="Gdynia Wspiera">
 		<div class="brand-mark" aria-hidden="true">GW</div>
 		<div class="brand-text">
 			<div class="brand-title">Gdynia Wspiera</div>
-			<div class="brand-subtitle">Free, verified social help offers</div>
+			<div class="brand-subtitle">{$t('layout.brandSubtitle')}</div>
 		</div>
 	</div>
 
@@ -64,7 +64,7 @@
 <footer class="layout-footer">
 	<div class="layout-footer-inner">
 		<div class="layout-footer-top">
-			<div>Gdynia Wspiera – browser of free, up-to-date and verified social help offers.</div>
+			<div>{$t('layout.footerDesc')}</div>
 			<div class="layout-footer-links">
 				<span class="pill">{$t('common.free')}</span>
 				<span class="pill">{$t('common.verified')}</span>
@@ -75,6 +75,6 @@
 			<span>{$t('common.homeInstitutionLabel')}: </span>
 			<span>{$t('common.homeInstitution')}</span>
 		</div>
-		<div>For emergencies, always contact local emergency numbers first.</div>
+		<div>{$t('layout.footerEmergency')}</div>
 	</div>
 </footer>
