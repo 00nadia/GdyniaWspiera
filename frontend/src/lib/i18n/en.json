@@ -61,7 +61,28 @@
   "helpOthers": {
     "p1": "If you want to support people in difficult life situations, Gdynia Wspiera helps you find safe and verified ways to do it – through volunteering, material support or cooperation as a professional.",
     "p2": "You can contact institutions directly using the details in their offers to ask about current needs (for example volunteer help, donations in kind) or about forms of professional cooperation.",
-    "p3": "Thank you for being ready to help – your involvement strengthens the support system for residents of Gdynia."
+    "p3": "Thank you for being ready to help – your involvement strengthens the support system for residents of Gdynia.",
+    "subtitle": "Browse volunteering, internship and collaboration offers. Find a way to help others."
+  },
+  "volunteering": {
+    "filters": "Filters",
+    "searchLabel": "Search",
+    "searchPlaceholder": "Type a name, place or keyword…",
+    "categoryLabel": "Category",
+    "noResults": "No results matching your criteria.",
+    "noResultsHint": "Try changing the filters or searching for a different keyword.",
+    "cat_internship": "Internship / placement",
+    "cat_volunteering": "Volunteering",
+    "cat_support_center": "Support center",
+    "free": "Free",
+    "targetGroup": "Target group",
+    "duration": "Duration",
+    "schedule": "Schedule",
+    "requirements": "Requirements",
+    "recruitment": "Recruitment",
+    "moreInfo": "More information",
+    "showDetails": "Show details",
+    "hideDetails": "Hide details"
   },
   "howToUse": {
     "intro": "This page invites you to use the browser in a calm and safe way – whether you are looking for help for yourself, for someone close to you, or as a professional supporting others.",
@@ -106,6 +127,9 @@
     "location": "Location",
     "openInMaps": "Open in Google Maps",
     "mapPreview": "A detailed map preview will be available in the main offers view."
+  },
+  "volDetail": {
+    "backToList": "← Back to list"
   },
   "offerCard": {
     "freeVerified": "Free & verified",

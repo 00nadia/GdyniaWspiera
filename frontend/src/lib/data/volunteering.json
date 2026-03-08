@@ -1,0 +1,632 @@
+[
+  {
+    "id": "vol-staz-psychologia-kliniczna",
+    "name": {
+      "pl": "Program Stażowy dla specjalizantów psychologii klinicznej",
+      "en": "Internship Program for Clinical Psychology Specialists",
+      "uk": "Програма стажування для спеціалістів клінічної психології"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "Różne staże kierunkowe dla specjalizantów psychologii klinicznej – wsparcie Ośrodka Interwencji Kryzysowej i Specjalistycznego Ośrodka Wsparcia.",
+      "en": "Various specialized internships for clinical psychology trainees – support from the Crisis Intervention Centre.",
+      "uk": "Різноманітні стажування для спеціалістів клінічної психології – підтримка Центру кризової інтервенції."
+    },
+    "descriptionLong": {
+      "pl": "Program stażowy realizowany w Gdyńskim Ośrodku Stażowo-Terapeutycznym. Forma praktyczna – wsparcie Ośrodka Interwencji Kryzysowej i Specjalistycznego Ośrodka Wsparcia dla Ofiar przemocy w Rodzinie. Realizacja wymogów programu specjalizacji klinicznej.\n\nRekrutacja do programu stażowego odbywa się w trybie ciągłym. Zapraszamy chętne osoby do wysłania CV. Aby uzyskać więcej informacji można kontaktować się z: Alanem Dombrowskim 508 793 724 lub gost@zpsgdynia.pl.",
+      "en": "Internship program at the Gdynia Internship and Therapy Center. Practical support from the Crisis Intervention Centre and Specialist Support Centre for Domestic Violence Victims. Fulfills clinical specialization program requirements.\n\nRecruitment is ongoing. Interested persons are invited to send their CV. For more information contact: Alan Dombrowski 508 793 724 or gost@zpsgdynia.pl.",
+      "uk": "Програма стажування в Гдинському центрі стажування та терапії. Практична підтримка Центру кризової інтервенції та Спеціалізованого центру підтримки жертв домашнього насильства. Виконання вимог програми клінічної спеціалізації.\n\nРекрутація відбувається постійно. Надсилайте CV. Для отримання додаткової інформації: Алан Домбровський 508 793 724 або gost@zpsgdynia.pl."
+    },
+    "place": {
+      "pl": "Gdyński Ośrodek Stażowo-Terapeutyczny",
+      "en": "Gdynia Internship and Therapy Center",
+      "uk": "Гдинський центр стажування та терапії"
+    },
+    "address": "ul. Bp. Dominika 16, 81-402 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "58 688 86 27",
+      "email": "gost@zpsgdynia.pl",
+      "website": "https://www.zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 12:00–20:00",
+      "en": "Monday – Friday 12:00–20:00",
+      "uk": "понеділок – п’ятниця 12:00–20:00"
+    },
+    "targetGroup": {
+      "pl": "Dla studentów studiów podyplomowych na kierunku psychologia kliniczna; odbywających specjalizację z zakresu psychologii klinicznej",
+      "en": "For postgraduate students in clinical psychology; those specializing in clinical psychology",
+      "uk": "Для студентів післядипломної освіти з клінічної психології; тих, хто спеціалізується з клінічної психології"
+    },
+    "duration": {
+      "pl": "Realizacja wymogów programu specjalizacji klinicznej",
+      "en": "Fulfillment of clinical specialization program requirements",
+      "uk": "Виконання вимог програми клінічної спеціалізації"
+    },
+    "schedule": {
+      "pl": "Do ustalenia z koordynatorem stażu",
+      "en": "To be arranged with the internship coordinator",
+      "uk": "Узгоджується з координатором стажування"
+    },
+    "requirements": {
+      "pl": "Skierowanie do odbycia stażu przez akredytowaną do przeprowadzania specjalizacji uczelnię",
+      "en": "Referral from an accredited university authorized to conduct the specialization",
+      "uk": "Направлення від акредитованого університету, уповноваженого проводити спеціалізацію"
+    },
+    "recruitment": {
+      "pl": "Rekrutacja w trybie ciągłym",
+      "en": "Ongoing recruitment",
+      "uk": "Постійна рекрутація"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/323,program-stazowy-dla-specjalizantow-psychologii-klinicznej-rozne-staze-kierunkowe.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-staz-warsztaty-edukacyjne",
+    "name": {
+      "pl": "Program Stażowy – Warsztaty Interwencji Edukacyjnej",
+      "en": "Internship Program \"Educational Intervention Workshops\"",
+      "uk": "Програма стажування «Майстерні освітньої інтервенції»"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "Wsparcie edukacyjne dzieci i młodzieży w placówkach SPOT – 10 godz. szkoleniowo-konsultacyjnych i 40 godz. praktycznych.",
+      "en": "Educational support for children and youth at SPOT facilities – 10 hours of training and 40 hours of practice.",
+      "uk": "Освітня підтримка дітей та молоді в установах SPOT – 10 годин навчання та 40 годин практики."
+    },
+    "descriptionLong": {
+      "pl": "Program stażowy realizowany w placówkach SPOT Ognisko, SPOT Login i SPOT Starter. Obejmuje 10 godz. szkoleniowo-konsultacyjnych i 40 godz. praktycznych z zakresu wsparcia edukacyjnego dzieci i młodzieży.\n\nOkres trwania: ok. 3 miesiące, łącznie min. 50 godz.",
+      "en": "Internship program carried out at SPOT Ognisko, SPOT Login and SPOT Starter facilities. Includes 10 hours of training-consultation and 40 hours of practical educational support for children and youth.\n\nDuration: approx. 3 months, minimum 50 hours total.",
+      "uk": "Програма стажування в установах SPOT Ognisko, SPOT Login та SPOT Starter. Включає 10 годин навчально-консультаційних та 40 годин практичної освітньої підтримки дітей та молоді.\n\nТривалість: близько 3 місяців, мінімум 50 годин."
+    },
+    "place": {
+      "pl": "Gdyński Ośrodek Stażowo-Terapeutyczny",
+      "en": "Gdynia Internship and Therapy Center",
+      "uk": "Гдинський центр стажування та терапії"
+    },
+    "address": "ul. Bp. Dominika 16, 81-402 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "58 688 86 27",
+      "email": "gost@zpsgdynia.pl",
+      "website": "https://www.zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 12:00–20:00",
+      "en": "Monday – Friday 12:00–20:00",
+      "uk": "понеділок – п’ятниця 12:00–20:00"
+    },
+    "targetGroup": {
+      "pl": "Pełnoletni uczniowie szkół średnich oraz studenci, którzy chcą podzielić się swoją wiedzą z wychowankami oraz rozbudzić w nich ciekawość świata.",
+      "en": "Adult high school students and university students who want to share their knowledge with youth and inspire curiosity.",
+      "uk": "Повнолітні учні старших класів та студенти, які хочуть ділитися знаннями з вихованцями та пробуджувати в них цікавість до світу."
+    },
+    "duration": {
+      "pl": "Ok. 3 miesiące – łącznie min. 50 godz.",
+      "en": "Approx. 3 months – minimum 50 hours total",
+      "uk": "Близько 3 місяців – мінімум 50 годин"
+    },
+    "schedule": {
+      "pl": "Od poniedziałku do piątku w godz. 14:00-18:00",
+      "en": "Monday to Friday, 14:00-18:00",
+      "uk": "Понеділок – п'ятниця, 14:00-18:00"
+    },
+    "requirements": {
+      "pl": "Przesłanie zgłoszenia drogą mailową i spotkanie z opiekunem projektu",
+      "en": "Submit application by email and meet with the project supervisor",
+      "uk": "Надіслати заявку електронною поштою та зустрітися з керівником проекту"
+    },
+    "recruitment": {
+      "pl": "Bieżące przyjęcia na program",
+      "en": "Ongoing admissions",
+      "uk": "Поточний набір"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/326,program-stazowy-warsztaty-interwencji-edukacyjnej.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-staz-telefon-zaufania",
+    "name": {
+      "pl": "Program Stażowy – Warsztaty Indywidualnego Wsparcia za pośrednictwem telefonu zaufania i czatu",
+      "en": "Internship Program \"Individual Support Workshops via Helpline and Chat\"",
+      "uk": "Програма стажування «Майстерні індивідуальної підтримки через телефон довіри та чат»"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "Staż zawodowy dla kształcących się psychologów – rozwój kompetencji w udzielaniu pomocy i wsparcia przez telefon zaufania i czat coucb.pl.",
+      "en": "Professional internship for psychology students – developing skills in providing help and support via helpline and coucb.pl chat.",
+      "uk": "Професійне стажування для студентів психології – розвиток навичок підтримки через телефон довіри та чат coucb.pl."
+    },
+    "descriptionLong": {
+      "pl": "Program stażu zawodowego dla kształcących się psychologów lub absolwentów psychologii powstał z myślą o rozwoju kompetencji i umiejętności, które są podstawą pracy w zawodzie. Chcemy wesprzeć stażystów we wkraczaniu na drogę udzielania pomocy i wsparcia.\n\nVI edycja: listopad 2025 - luty 2027. 110 godzin szkoleń, 190 godzin dyżurów wsparcia młodzieży, regularny udział w superwizjach.\n\nRekrutacja do nowej edycji ROZPOCZĘTA! CV można przesyłać do dnia 21.09.2025r. na adres: wiw@zpsgdynia.pl.",
+      "en": "Professional internship program for psychology students and graduates, designed to develop competencies essential for the profession. We support interns in entering the path of providing help and support.\n\nEdition VI: November 2025 – February 2027. 110 hours of training, 190 hours of youth support shifts, regular supervision.\n\nRecruitment for the new edition is OPEN! Send CV by 21.09.2025 to: wiw@zpsgdynia.pl.",
+      "uk": "Програма професійного стажування для студентів та випускників психології, спрямована на розвиток компетенцій, необхідних для професії. Підтримуємо стажерів у початку шляху надання допомоги.\n\nVI видання: листопад 2025 – лютий 2027. 110 годин навчання, 190 годин підтримки молоді, регулярна супервізія.\n\nРекрутація ВІДКРИТА! CV надсилайте до 21.09.2025 на: wiw@zpsgdynia.pl."
+    },
+    "place": {
+      "pl": "Gdyński Ośrodek Stażowo-Terapeutyczny",
+      "en": "Gdynia Internship and Therapy Center",
+      "uk": "Гдинський центр стажування та терапії"
+    },
+    "address": "ul. Bp. Dominika 16, 81-402 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "58 688 86 27",
+      "email": "gost@zpsgdynia.pl",
+      "website": "https://www.zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 12:00–20:00",
+      "en": "Monday – Friday 12:00–20:00",
+      "uk": "понеділок – п’ятниця 12:00–20:00"
+    },
+    "targetGroup": {
+      "pl": "Absolwenci oraz studenci III, IV oraz V roku psychologii studiów jednolitych magisterskich lub absolwenci oraz studenci II i III roku 3,5 letnich studiów psychologii dla magistrów.",
+      "en": "Graduates and students in years III–V of unified master's psychology studies, or students in years II–III of 3.5-year psychology master's programs.",
+      "uk": "Випускники та студенти III–V курсу єдиної магістерської програми з психології або студенти II–III курсу 3,5-річної магістерської програми."
+    },
+    "duration": {
+      "pl": "VI edycja: listopad 2025 - luty 2027",
+      "en": "Edition VI: November 2025 – February 2027",
+      "uk": "VI видання: листопад 2025 – лютий 2027"
+    },
+    "schedule": {
+      "pl": "110 godz. szkoleń, 190 godz. dyżurów wsparcia młodzieży, superwizje – codziennie 12:00-20:00",
+      "en": "110 hrs training, 190 hrs youth support shifts, supervision – daily 12:00-20:00",
+      "uk": "110 год навчання, 190 год підтримки молоді, супервізія – щодня 12:00-20:00"
+    },
+    "requirements": {
+      "pl": "20 miejsc stażowych; rekrutacja prowadzona w III etapach",
+      "en": "20 internship spots; 3-stage recruitment process",
+      "uk": "20 місць; 3-етапна рекрутація"
+    },
+    "recruitment": {
+      "pl": "Rekrutacja ROZPOCZĘTA! CV do 21.09.2025 na wiw@zpsgdynia.pl",
+      "en": "Recruitment OPEN! Send CV by 21.09.2025 to wiw@zpsgdynia.pl",
+      "uk": "Рекрутація ВІДКРИТА! CV до 21.09.2025 на wiw@zpsgdynia.pl"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/322,program-stazowy-warsztaty-indywidualnego-wsparcia-za-posrednictwem-telefonu-zaufania-i-czatu-coucbpl.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-spot-kalamo",
+    "name": {
+      "pl": "Wsparcie w trudnych sytuacjach rodzinnych, rówieśniczych i szkolnych",
+      "en": "Support in Difficult Family, Peer and School Situations",
+      "uk": "Підтримка у складних сімейних, ровесницьких та шкільних ситуаціях"
+    },
+    "category": "support_center",
+    "descriptionShort": {
+      "pl": "Placówka wsparcia dziennego dla dzieci 6-18 lat i ich rodzin – zajęcia grupowe, terapia, animacje środowiskowe.",
+      "en": "Daily support facility for children aged 6-18 and their families – group activities, therapy, community events.",
+      "uk": "Денний центр підтримки для дітей 6-18 років та їхніх сімей – групові заняття, терапія, громадські заходи."
+    },
+    "descriptionLong": {
+      "pl": "SPOT KALAMO to placówka wsparcia dziennego. Zajęcia w grupach w godzinach 14:00-18:00, dodatkowo zajęcia dla osób dorosłych oraz osób dorosłych z dziećmi w godzinach wieczornych. Grupa terapeutyczna dla nastolatków, animacje środowiskowe na terenie Redłowa i Wzgórza św. Maksymiliana.\n\nWarunki: przeprowadzenie wywiadu – termin do umówienia pod tel. 519857048 lub spot@kalamo.pl. Czas oczekiwania: ok. 7 dni.",
+      "en": "SPOT KALAMO is a daily support facility. Group activities from 14:00-18:00, plus evening classes for adults and adults with children. Therapeutic group for teenagers, community events in Redłowo and Wzgórze św. Maksymiliana.\n\nConditions: initial interview – schedule by phone 519857048 or spot@kalamo.pl. Waiting time: approx. 7 days.",
+      "uk": "SPOT KALAMO – денний центр підтримки. Групові заняття 14:00-18:00, додатково вечірні заняття для дорослих та дорослих з дітьми. Терапевтична група для підлітків, громадські заходи в районах Редлово та Взгуже.\n\nУмови: попередня співбесіда – записатися за тел. 519857048 або spot@kalamo.pl. Час очікування: близько 7 днів."
+    },
+    "place": {
+      "pl": "SPOT KALAMO",
+      "en": "SPOT KALAMO",
+      "uk": "SPOT KALAMO"
+    },
+    "address": "ul. Senatorska 17, 81-411 Gdynia",
+    "district": "Wzgórze",
+    "contact": {
+      "phone": "519 857 048",
+      "email": "biuro@kalamo.pl",
+      "website": "https://www.kalamo.pl"
+    },
+    "openingHours": {
+      "pl": "14:00–18:00",
+      "en": "14:00–18:00",
+      "uk": "14:00–18:00"
+    },
+    "targetGroup": {
+      "pl": "Dzieci w wieku 6-18 lat i ich rodziny",
+      "en": "Children aged 6-18 and their families",
+      "uk": "Діти віком 6-18 років та їхні сім'ї"
+    },
+    "duration": {
+      "pl": "Przez cały rok",
+      "en": "Year-round",
+      "uk": "Протягом усього року"
+    },
+    "schedule": {
+      "pl": "Grupa I (pon./śr.), Grupa II (wt./czw.), Grupa III (pt.) – 14:00-18:00",
+      "en": "Group I (Mon/Wed), Group II (Tue/Thu), Group III (Fri) – 14:00-18:00",
+      "uk": "Група I (пн/ср), Група II (вт/чт), Група III (пт) – 14:00-18:00"
+    },
+    "requirements": {
+      "pl": "Wywiad – tel. 519857048 lub spot@kalamo.pl",
+      "en": "Interview – phone 519857048 or spot@kalamo.pl",
+      "uk": "Співбесіда – тел. 519857048 або spot@kalamo.pl"
+    },
+    "recruitment": {
+      "pl": "Czas oczekiwania: ok. 7 dni",
+      "en": "Waiting time: approx. 7 days",
+      "uk": "Час очікування: близько 7 днів"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/394,wsparcie-w-trudnych-sytuacjach-rodzinnych-rowiesniczych-i-szkolnych.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-staz-psychoterapeuci",
+    "name": {
+      "pl": "Program stażowy dla kształcących się psychoterapeutów",
+      "en": "Internship Program for Trainee Psychotherapists",
+      "uk": "Програма стажування для психотерапевтів, які навчаються"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "Praktyczny staż – samodzielne prowadzenie psychoterapii pod opieką koordynatora, przez okres jednego roku.",
+      "en": "Practical internship – independent psychotherapy practice under coordinator supervision, for one year.",
+      "uk": "Практичне стажування – самостійне проведення психотерапії під наглядом координатора, протягом одного року."
+    },
+    "descriptionLong": {
+      "pl": "Program stażowy w Gdyńskim Ośrodku Stażowo-Terapeutycznym. Forma praktyczna – samodzielne prowadzenie psychoterapii. Warunkiem jest ukończenie min. pierwszego roku szkolenia psychoterapeutycznego. Jeden dzień w tygodniu w stałych godzinach, ustalony z koordynatorem.\n\nRekrutacja w trybie ciągłym. Więcej informacji: tel. 58 354 68 64.",
+      "en": "Internship program at the Gdynia Internship and Therapy Center. Practical form – independent psychotherapy practice. Requirement: completion of at least the first year of psychotherapy training. One day per week at fixed hours, agreed with the coordinator.\n\nOngoing recruitment. More info: tel. 58 354 68 64.",
+      "uk": "Програма стажування в Гдинському центрі стажування та терапії. Практична форма – самостійне проведення психотерапії. Вимога: завершення мінімум першого року навчання психотерапії. Один день на тиждень у визначені години.\n\nПостійна рекрутація. Інформація: тел. 58 354 68 64."
+    },
+    "place": {
+      "pl": "Gdyński Ośrodek Stażowo-Terapeutyczny",
+      "en": "Gdynia Internship and Therapy Center",
+      "uk": "Гдинський центр стажування та терапії"
+    },
+    "address": "ul. Bp. Dominika 16, 81-402 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "58 688 86 27",
+      "email": "gost@zpsgdynia.pl",
+      "website": "https://www.zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 12:00–20:00",
+      "en": "Monday – Friday 12:00–20:00",
+      "uk": "понеділок – п’ятниця 12:00–20:00"
+    },
+    "targetGroup": {
+      "pl": "Osoby, które ukończyły wyższe studia i kształcą się w zawodzie psychoterapeuty.",
+      "en": "Graduates pursuing psychotherapy training.",
+      "uk": "Випускники, які навчаються на психотерапевтів."
+    },
+    "duration": {
+      "pl": "Rok",
+      "en": "One year",
+      "uk": "Один рік"
+    },
+    "schedule": {
+      "pl": "Jeden dzień w tygodniu w stałych godzinach, ustalony z koordynatorem",
+      "en": "One day per week at fixed hours, agreed with the coordinator",
+      "uk": "Один день на тиждень у визначені години, узгоджені з координатором"
+    },
+    "requirements": {
+      "pl": "Ukończenie min. pierwszy rok szkolenia psychoterapeutycznego",
+      "en": "Completion of at least the first year of psychotherapy training",
+      "uk": "Завершення мінімум першого року навчання психотерапії"
+    },
+    "recruitment": {
+      "pl": "Rekrutacja w trybie ciągłym – wyślij CV",
+      "en": "Ongoing recruitment – send your CV",
+      "uk": "Постійна рекрутація – надішліть CV"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/95,program-stazowy-dla-ksztalcacych-sie-psychoterapeutow.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-staz-praca-z-dzieckiem",
+    "name": {
+      "pl": "Program stażowy – Warsztaty Intensywnej Pracy z Dzieckiem i Rodziną",
+      "en": "Internship Program \"Intensive Work with Children and Families Workshops\"",
+      "uk": "Програма стажування «Майстерні інтенсивної роботи з дітьми та сім'ями»"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "Staż z częścią teoretyczną (20 godz.) i praktyczną (min. 100 godz.) – dyżury w Placówkach Wsparcia Dziennego SPOT.",
+      "en": "Internship with theoretical (20 hrs) and practical (min. 100 hrs) parts – shifts at SPOT Day Support Facilities.",
+      "uk": "Стажування з теоретичною (20 год) та практичною (мін. 100 год) частинами – чергування в установах SPOT."
+    },
+    "descriptionLong": {
+      "pl": "Część teoretyczna oparta na formule paneli dyskusyjnych i warsztatów (20 godz.) oraz część praktyczna (min. 100 godz.) polegająca na dyżurach w Placówkach Wsparcia Dziennego (SPOT Ognisko, SPOT Login, SPOT Starter).\n\nOkres trwania stażu to ok. 4 miesiące. Warsztaty wprowadzające w pierwszej połowie stycznia 2026 r., dyżury od połowy stycznia do końca kwietnia.\n\n15 miejsc stażowych. CV na: wip@zpsgdynia.pl (do 14.12.2025).",
+      "en": "Theoretical part based on discussion panels and workshops (20 hrs) and practical part (min. 100 hrs) consisting of shifts at SPOT Day Support Facilities (SPOT Ognisko, SPOT Login, SPOT Starter).\n\nDuration: approx. 4 months. Introductory workshops in January 2026, shifts from mid-January to end of April.\n\n15 internship spots. Send CV to: wip@zpsgdynia.pl (by 14.12.2025).",
+      "uk": "Теоретична частина на базі дискусійних панелей та майстерень (20 год) та практична частина (мін. 100 год) – чергування в установах SPOT Ognisko, SPOT Login, SPOT Starter.\n\nТривалість: близько 4 місяців. Вступні майстерні в січні 2026 р., чергування: січень–квітень.\n\n15 місць. CV на: wip@zpsgdynia.pl (до 14.12.2025)."
+    },
+    "place": {
+      "pl": "Gdyński Ośrodek Stażowo-Terapeutyczny",
+      "en": "Gdynia Internship and Therapy Center",
+      "uk": "Гдинський центр стажування та терапії"
+    },
+    "address": "ul. Bp. Dominika 16, 81-402 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "58 688 86 27",
+      "email": "gost@zpsgdynia.pl",
+      "website": "https://www.zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 12:00–20:00",
+      "en": "Monday – Friday 12:00–20:00",
+      "uk": "понеділок – п’ятниця 12:00–20:00"
+    },
+    "targetGroup": {
+      "pl": "Absolwenci oraz studenci studiów II stopnia, od II roku studiów I stopnia, od II roku jednolitych studiów magisterskich i od I roku studiów uzupełniających na kierunkach pedagogicznych, psychologicznych lub pokrewnych.",
+      "en": "Graduates and students from 2nd year of bachelor's, 2nd year of unified master's, or 1st year of supplementary studies in pedagogy, psychology or related fields.",
+      "uk": "Випускники та студенти від 2 курсу бакалаврату, від 2 курсу єдиної магістратури або від 1 курсу додаткових студій з педагогіки, психології або суміжних спеціальностей."
+    },
+    "duration": {
+      "pl": "Ok. 4 miesiące (styczeń – kwiecień 2026)",
+      "en": "Approx. 4 months (January – April 2026)",
+      "uk": "Близько 4 місяців (січень – квітень 2026)"
+    },
+    "schedule": {
+      "pl": "Poniedziałek – piątek, 10:00/13:00 – 18:00, ok. 3-5 godzin dziennie",
+      "en": "Monday – Friday, 10:00/13:00 – 18:00, approx. 3-5 hours daily",
+      "uk": "Понеділок – п'ятниця, 10:00/13:00 – 18:00, близько 3-5 годин на день"
+    },
+    "requirements": {
+      "pl": "15 miejsc; CV na wip@zpsgdynia.pl do 14.12.2025 + rozmowa stażowa",
+      "en": "15 spots; CV to wip@zpsgdynia.pl by 14.12.2025 + internship interview",
+      "uk": "15 місць; CV на wip@zpsgdynia.pl до 14.12.2025 + співбесіда"
+    },
+    "recruitment": {
+      "pl": "Rekrutacja: 01.12.2025 – 14.12.2025",
+      "en": "Recruitment: 01.12.2025 – 14.12.2025",
+      "uk": "Рекрутація: 01.12.2025 – 14.12.2025"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/59,program-stazowy-warsztaty-intensywnej-pracy-z-dzieckiem-i-rodzina.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-staz-inkluzywne-dzialania",
+    "name": {
+      "pl": "Program stażowy: Warsztaty Indywidualnego Rozwoju poprzez realizację Inkluzywnych Działań dla Młodych",
+      "en": "Internship Program: Individual Development through Inclusive Activities for Youth",
+      "uk": "Програма стажування: Індивідуальний розвиток через інклюзивну діяльність для молоді"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "100 godzin warsztatów i 200 godzin praktycznych w pilotażowym działaniu coucb gdynia – dla psychologów i pedagogów.",
+      "en": "100 hours of workshops and 200 hours of practice at coucb gdynia pilot program – for psychologists and educators.",
+      "uk": "100 годин майстерень та 200 годин практики в пілотному проекті coucb gdynia – для психологів та педагогів."
+    },
+    "descriptionLong": {
+      "pl": "Program stażowy dla psychologów i pedagogów realizowany w Zespole Placówek Specjalistycznych. 100 godzin warsztatów i 200 godzin praktycznych w pilotażowym działaniu coucb gdynia.\n\nII edycja: III 2026 – VI 2027. 18 miejsc stażowych. Staż jest bezpłatny.\n\nRekrutacja TRWA! CV na wir@zpsgdynia.pl do 22.01.2026. Spotkanie organizacyjne: 17.02.2026 przy ul. Abrahama 80 w Gdyni.",
+      "en": "Internship program for psychologists and educators at the Specialist Facilities Team. 100 hours of workshops and 200 hours of practice at coucb gdynia pilot project.\n\nEdition II: March 2026 – June 2027. 18 internship spots. The internship is free.\n\nRecruitment is ONGOING! Send CV to wir@zpsgdynia.pl by 22.01.2026. Organizational meeting: 17.02.2026 at ul. Abrahama 80, Gdynia.",
+      "uk": "Програма стажування для психологів та педагогів в Команді спеціалізованих установ. 100 годин майстерень та 200 годин практики в пілотному проекті coucb gdynia.\n\nII видання: III 2026 – VI 2027. 18 місць. Стажування безкоштовне.\n\nРекрутація ТРИВАЄ! CV на wir@zpsgdynia.pl до 22.01.2026. Організаційна зустріч: 17.02.2026 за адресою вул. Абрахама 80, Гдиня."
+    },
+    "place": {
+      "pl": "Zespół Placówek Specjalistycznych",
+      "en": "Specialist Facilities Team",
+      "uk": "Команда спеціалізованих установ"
+    },
+    "address": "ul. Wejherowska 65, 81-049 Gdynia",
+    "district": "Dąbrowa",
+    "contact": {
+      "phone": "58 664 33 66",
+      "email": "info@zpsgdynia.pl",
+      "website": "https://zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 14:00–20:00, soboty 12:00–18:00",
+      "en": "Monday – Friday 14:00–20:00, Saturday 12:00–18:00",
+      "uk": "понеділок – п’ятниця 14:00–20:00, субота 12:00–18:00"
+    },
+    "targetGroup": {
+      "pl": "Absolwenci oraz studenci III-V roku psychologii studiów jednolitych magisterskich, studenci II-III roku 3,5 letnich studiów psychologii, studenci III roku I stopnia oraz II stopnia na kierunkach pedagogicznych.",
+      "en": "Graduates and students in years III-V of unified psychology master's, years II-III of 3.5-year psychology programs, year III of bachelor's and master's in education.",
+      "uk": "Випускники та студенти III-V курсу єдиної магістратури з психології, II-III курсу 3,5-річної програми, III курсу бакалаврату та магістратури з педагогіки."
+    },
+    "duration": {
+      "pl": "III 2026 – VI 2027",
+      "en": "March 2026 – June 2027",
+      "uk": "Березень 2026 – червень 2027"
+    },
+    "schedule": {
+      "pl": "Poniedziałek – piątek 14:00-20:00 oraz soboty 12:00-18:00, dni do uzgodnienia",
+      "en": "Monday – Friday 14:00-20:00 and Saturdays 12:00-18:00, days to be arranged",
+      "uk": "Понеділок – п'ятниця 14:00-20:00 та суботи 12:00-18:00, дні узгоджуються"
+    },
+    "requirements": {
+      "pl": "18 miejsc; CV na wir@zpsgdynia.pl do 22.01.2026 + rozmowa stażowa",
+      "en": "18 spots; CV to wir@zpsgdynia.pl by 22.01.2026 + internship interview",
+      "uk": "18 місць; CV на wir@zpsgdynia.pl до 22.01.2026 + співбесіда"
+    },
+    "recruitment": {
+      "pl": "II EDYCJA – REKRUTACJA TRWA! CV do 22.01.2026",
+      "en": "EDITION II – RECRUITMENT ONGOING! CV by 22.01.2026",
+      "uk": "II ВИДАННЯ – РЕКРУТАЦІЯ ТРИВАЄ! CV до 22.01.2026"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/395,program-stazowy-dla-psychologow-i-pedagogow-warsztaty-indywidualnego-rozwoju-poprzez-realizacje-inkluzywnych-dzialan-dla-mlodych.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-spot-riviera",
+    "name": {
+      "pl": "Placówka wsparcia dla dzieci i młodzieży – SPOT Riviera",
+      "en": "Support Facility for Children and Youth – SPOT Riviera",
+      "uk": "Центр підтримки для дітей та молоді – SPOT Riviera"
+    },
+    "category": "support_center",
+    "descriptionShort": {
+      "pl": "Placówka wsparcia dziennego dla młodzieży 11-18 lat – warsztaty, wsparcie psychologiczne, pedagogiczne, ciepły posiłek.",
+      "en": "Daily support facility for youth aged 11-18 – workshops, psychological and pedagogical support, warm meals.",
+      "uk": "Денний центр підтримки для молоді 11-18 років – майстерні, психологічна та педагогічна підтримка, гарячі обіди."
+    },
+    "descriptionLong": {
+      "pl": "W SPOT RIVIERA młodzież może uczestniczyć w różnorodnych warsztatach, wydarzeniach i projektach, a także odpoczywać w towarzystwie rówieśników i ekipy.\n\nCo miesiąc nowy harmonogram: warsztaty artystyczne, pomoc w nauce, kino, wieczory planszówkowe, godziny ciszy, klub czytelniczy. Codziennie: open space, rozmowa przy herbacie, ciepły posiłek, wsparcie. Po umówieniu: konsultacje psychologiczna i pedagogiczna.\n\nWiek: 11-18 lat. Bez czasu oczekiwania.",
+      "en": "At SPOT RIVIERA youth can participate in various workshops, events and projects, and simply relax with peers and staff.\n\nMonthly schedule includes: art workshops, tutoring, cinema evenings, board game nights, quiet hours, book club. Daily: open space, chat over tea, warm meals, support. By appointment: psychological and pedagogical consultations.\n\nAge: 11-18. No waiting time.",
+      "uk": "У SPOT RIVIERA молодь може брати участь у різноманітних майстернях, подіях та проектах, а також відпочивати з однолітками та командою.\n\nЩомісячний розклад: мистецькі майстерні, допомога у навчанні, кіно, настільні ігри, години тиші, книжковий клуб. Щодня: відкритий простір, розмова за чаєм, гарячий обід, підтримка. За записом: психологічні та педагогічні консультації.\n\nВік: 11-18 років. Без часу очікування."
+    },
+    "place": {
+      "pl": "SPOT Riviera",
+      "en": "SPOT Riviera",
+      "uk": "SPOT Riviera"
+    },
+    "address": "ul. Kazimierza Górskiego 2, 81-304 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "573 902 041",
+      "email": "spot.riviera@fundacjamlodorośli.pl",
+      "website": "https://www.instagram.com/spot_riviera/"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – sobota 13:00–19:00",
+      "en": "Monday – Saturday 13:00–19:00",
+      "uk": "понеділок – субота 13:00–19:00"
+    },
+    "targetGroup": {
+      "pl": "Dzieci i młodzież 11-18 lat",
+      "en": "Children and youth aged 11-18",
+      "uk": "Діти та молодь 11-18 років"
+    },
+    "duration": {
+      "pl": "1.12.2024 – 31.12.2025",
+      "en": "1.12.2024 – 31.12.2025",
+      "uk": "1.12.2024 – 31.12.2025"
+    },
+    "schedule": {
+      "pl": "Poniedziałek – sobota, 13:00-19:00",
+      "en": "Monday – Saturday, 13:00-19:00",
+      "uk": "Понеділок – субота, 13:00-19:00"
+    },
+    "requirements": {
+      "pl": "Wiek od 11 do 18 lat",
+      "en": "Age 11 to 18",
+      "uk": "Вік від 11 до 18 років"
+    },
+    "recruitment": {
+      "pl": "Bez czasu oczekiwania",
+      "en": "No waiting time",
+      "uk": "Без часу очікування"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/391,placowka-wsparcia-dla-dzieci-w-wieku-11-1-lat.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-staz-interwencja-kryzysowa",
+    "name": {
+      "pl": "Program stażowy – Warsztaty Interwencji Kryzysowej i Pracy z Osobami Doświadczającymi Przemocy",
+      "en": "Internship Program \"Crisis Intervention and Working with Violence Victims Workshops\"",
+      "uk": "Програма стажування «Майстерні кризової інтервенції та роботи з постраждалими від насильства»"
+    },
+    "category": "internship",
+    "descriptionShort": {
+      "pl": "Staż zawodowy – pierwszy kontakt z klientem, pomoc informacyjna, wstępne rozpoznawanie spraw w OIK.",
+      "en": "Professional internship – first client contact, information assistance, initial case assessment at the Crisis Intervention Centre.",
+      "uk": "Професійне стажування – перший контакт з клієнтом, інформаційна допомога, попередня оцінка справ у Центрі кризової інтервенції."
+    },
+    "descriptionLong": {
+      "pl": "Program składa się z części szkoleniowej oraz dyżurów, podczas których do obowiązków wolontariuszy należy: pierwszy kontakt telefoniczny oraz osobisty z klientem, udzielanie pomocy informacyjnej oraz wstępne rozpoznawanie sprawy.\n\nKolejna edycja: listopad 2025 – marzec 2027. 100 godz. szkoleń, min. 220 godz. dyżurów interwencyjnych, superwizje.\n\nRekrutacja ROZPOCZĘTA! CV do 21.09.2025 na wik@zpsgdynia.pl.",
+      "en": "The program consists of training and shifts. Volunteer duties include: first phone and in-person client contact, providing information assistance, and initial case assessment.\n\nNext edition: November 2025 – March 2027. 100 hrs training, min. 220 hrs intervention shifts, supervision.\n\nRecruitment OPEN! Send CV by 21.09.2025 to wik@zpsgdynia.pl.",
+      "uk": "Програма включає навчальну частину та чергування. Обов'язки волонтерів: перший телефонний та особистий контакт з клієнтом, інформаційна допомога, попередня оцінка справи.\n\nНаступне видання: листопад 2025 – березень 2027. 100 год навчання, мін. 220 год чергувань, супервізія.\n\nРекрутація ВІДКРИТА! CV до 21.09.2025 на wik@zpsgdynia.pl."
+    },
+    "place": {
+      "pl": "Gdyński Ośrodek Stażowo-Terapeutyczny",
+      "en": "Gdynia Internship and Therapy Center",
+      "uk": "Гдинський центр стажування та терапії"
+    },
+    "address": "ul. Bp. Dominika 16, 81-402 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "58 688 86 27",
+      "email": "gost@zpsgdynia.pl",
+      "website": "https://www.zpsgdynia.pl"
+    },
+    "openingHours": {
+      "pl": "poniedziałek – piątek 12:00–20:00",
+      "en": "Monday – Friday 12:00–20:00",
+      "uk": "понеділок – п’ятниця 12:00–20:00"
+    },
+    "targetGroup": {
+      "pl": "Absolwenci oraz studenci III-V roku psychologii studiów jednolitych magisterskich lub II-III roku 3,5 letnich studiów psychologii dla magistrów.",
+      "en": "Graduates and students in years III-V of unified psychology master's or years II-III of 3.5-year psychology master's programs.",
+      "uk": "Випускники та студенти III-V курсу єдиної магістратури з психології або II-III курсу 3,5-річної програми."
+    },
+    "duration": {
+      "pl": "Listopad 2025 – marzec 2027",
+      "en": "November 2025 – March 2027",
+      "uk": "Листопад 2025 – березень 2027"
+    },
+    "schedule": {
+      "pl": "100 godz. szkoleń, min. 220 godz. dyżurów – pon.-niedz. 8:00-14:00 i 14:00-20:00",
+      "en": "100 hrs training, min. 220 hrs shifts – Mon-Sun 8:00-14:00 and 14:00-20:00",
+      "uk": "100 год навчання, мін. 220 год чергувань – пн-нд 8:00-14:00 та 14:00-20:00"
+    },
+    "requirements": {
+      "pl": "20 miejsc; rekrutacja obejmuje 3 etapy",
+      "en": "20 spots; 3-stage recruitment process",
+      "uk": "20 місць; 3-етапна рекрутація"
+    },
+    "recruitment": {
+      "pl": "Rekrutacja ROZPOCZĘTA! CV do 21.09.2025 na wik@zpsgdynia.pl",
+      "en": "Recruitment OPEN! CV by 21.09.2025 to wik@zpsgdynia.pl",
+      "uk": "Рекрутація ВІДКРИТА! CV до 21.09.2025 на wik@zpsgdynia.pl"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/60,program-stazowy-warsztaty-interwencji-kryzysowej-i-pracy-z-osobami-doswiadczajacymi-przemocy.html",
+    "isFree": true
+  },
+  {
+    "id": "vol-wolontariat-niepelnosprawni",
+    "name": {
+      "pl": "Wolontariusz Osoby Niepełnosprawnej",
+      "en": "Volunteer for a Person with Disability",
+      "uk": "Волонтер для людини з інвалідністю"
+    },
+    "category": "volunteering",
+    "descriptionShort": {
+      "pl": "Regularne wsparcie osoby niepełnosprawnej – zakupy, wizyty lekarskie, wyjścia kulturalne, towarzyszenie.",
+      "en": "Regular support for a person with disability – shopping, medical visits, cultural outings, companionship.",
+      "uk": "Регулярна підтримка людини з інвалідністю – покупки, візити до лікаря, культурні заходи, спілкування."
+    },
+    "descriptionLong": {
+      "pl": "Twoim zadaniem będzie regularne wsparcie wybranego uczestnika i asystowanie mu w czynnościach, których nie może wykonać ze względu na swoją niepełnosprawność. Spotkania średnio raz w tygodniu, forma zależna od potrzeb – zakupy, wizyta u lekarza, sprawy urzędowe, wyjście na koncert, spacer czy rozmowa.\n\nW ramach projektu: serie szkoleń o prawidłowym wspieraniu osób z niepełnosprawnościami, spotkania integracyjne z innymi wolontariuszami.\n\nWymagania: min. 18 lat. Kontakt: Aleksandra Sadowska, aleksandra.sadowska@cwm.org.pl, tel. (58) 620 24 80.",
+      "en": "Your task will be regular support for a selected participant, assisting with activities they cannot perform due to their disability. Meetings once a week on average, form depends on needs – shopping, doctor visits, official errands, concerts, walks or conversation.\n\nThe project includes: training on properly supporting people with various disabilities, integration meetings with other volunteers.\n\nRequirements: min. 18 years old. Contact: Aleksandra Sadowska, aleksandra.sadowska@cwm.org.pl, tel. (58) 620 24 80.",
+      "uk": "Ваше завдання – регулярна підтримка обраного учасника, допомога у справах, які він не може виконати через інвалідність. Зустрічі в середньому раз на тиждень – покупки, візити до лікаря, офіційні справи, концерти, прогулянки чи розмови.\n\nПроект включає: навчання з підтримки людей з різними видами інвалідності, інтеграційні зустрічі з іншими волонтерами.\n\nВимоги: мін. 18 років. Контакт: Aleksandra Sadowska, aleksandra.sadowska@cwm.org.pl, тел. (58) 620 24 80."
+    },
+    "place": {
+      "pl": "Centrum Współpracy Młodzieży",
+      "en": "Youth Cooperation Center",
+      "uk": "Центр молодіжної співпраці"
+    },
+    "address": "ul. Św. Piotra 21/4, 81-347 Gdynia",
+    "district": "Śródmieście",
+    "contact": {
+      "phone": "(58) 620 24 80",
+      "email": "cwm@cwm.org.pl",
+      "website": "https://www.cwm.org.pl"
+    },
+    "openingHours": {
+      "pl": "",
+      "en": "",
+      "uk": ""
+    },
+    "targetGroup": {
+      "pl": "Osoby otwarte, kontaktowe, lubiące pracę z ludźmi – od 18 roku życia",
+      "en": "Open, sociable people who enjoy working with others – from 18 years old",
+      "uk": "Відкриті, комунікабельні люди, які люблять працювати з людьми – від 18 років"
+    },
+    "duration": {
+      "pl": "Projekt ciągły",
+      "en": "Ongoing project",
+      "uk": "Постійний проект"
+    },
+    "schedule": {
+      "pl": "Średnio raz w tygodniu, w dogodnym terminie",
+      "en": "On average once a week, at a convenient time",
+      "uk": "В середньому раз на тиждень, у зручний час"
+    },
+    "requirements": {
+      "pl": "Min. 18 lat; zapoznanie się z regulaminem na www.cwm.org.pl, rozmowa indywidualna",
+      "en": "Min. 18 years old; review the regulations at www.cwm.org.pl, individual interview",
+      "uk": "Мін. 18 років; ознайомлення з регламентом на www.cwm.org.pl, індивідуальна співбесіда"
+    },
+    "recruitment": {
+      "pl": "Rekrutacja ciągła – skontaktuj się mailowo lub telefonicznie",
+      "en": "Ongoing recruitment – contact by email or phone",
+      "uk": "Постійна рекрутація – зв'яжіться електронною поштою або телефоном"
+    },
+    "url": "https://www.gdyniawspiera.pl/zadanie/247,wolontariusz-osoby-niepelnosprawnej.html",
+    "isFree": true
+  }
+]

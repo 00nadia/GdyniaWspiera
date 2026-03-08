@@ -37,7 +37,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Sunday",
+        "day": {
+          "pl": "Poniedziałek–Niedziela",
+          "en": "Monday–Sunday",
+          "uk": "Понеділок–Неділя"
+        },
         "from": "00:00",
         "to": "23:59"
       }
@@ -94,7 +98,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Friday",
+        "day": {
+          "pl": "Poniedziałek–Piątek",
+          "en": "Monday–Friday",
+          "uk": "Понеділок–П’ятниця"
+        },
         "from": "08:00",
         "to": "18:00"
       }
@@ -149,17 +157,29 @@
     },
     "openingHours": [
       {
-        "day": "Monday",
+        "day": {
+          "pl": "Poniedziałek",
+          "en": "Monday",
+          "uk": "Понеділок"
+        },
         "from": "10:00",
         "to": "18:00"
       },
       {
-        "day": "Wednesday",
+        "day": {
+          "pl": "Środa",
+          "en": "Wednesday",
+          "uk": "Середа"
+        },
         "from": "08:00",
         "to": "16:00"
       },
       {
-        "day": "Friday",
+        "day": {
+          "pl": "Piątek",
+          "en": "Friday",
+          "uk": "П’ятниця"
+        },
         "from": "08:00",
         "to": "14:00"
       }
@@ -212,7 +232,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Friday",
+        "day": {
+          "pl": "Poniedziałek–Piątek",
+          "en": "Monday–Friday",
+          "uk": "Понеділок–П’ятниця"
+        },
         "from": "08:00",
         "to": "16:15"
       }
@@ -264,7 +288,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Friday",
+        "day": {
+          "pl": "Poniedziałek–Piątek",
+          "en": "Monday–Friday",
+          "uk": "Понеділок–П’ятниця"
+        },
         "from": "12:00",
         "to": "20:00"
       }
@@ -314,7 +342,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Friday",
+        "day": {
+          "pl": "Poniedziałek–Piątek",
+          "en": "Monday–Friday",
+          "uk": "Понеділок–П’ятниця"
+        },
         "from": "08:00",
         "to": "18:00"
       }
@@ -369,7 +401,11 @@
     },
     "openingHours": [
       {
-        "day": "By appointment",
+        "day": {
+          "pl": "Po umówieniu",
+          "en": "By appointment",
+          "uk": "За домовленістю"
+        },
         "from": "",
         "to": ""
       }
@@ -421,12 +457,20 @@
     },
     "openingHours": [
       {
-        "day": "Monday",
+        "day": {
+          "pl": "Poniedziałek",
+          "en": "Monday",
+          "uk": "Понеділок"
+        },
         "from": "16:00",
         "to": "20:00"
       },
       {
-        "day": "Saturday",
+        "day": {
+          "pl": "Sobota",
+          "en": "Saturday",
+          "uk": "Субота"
+        },
         "from": "13:00",
         "to": "17:00"
       }
@@ -479,7 +523,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Friday",
+        "day": {
+          "pl": "Poniedziałek–Piątek",
+          "en": "Monday–Friday",
+          "uk": "Понеділок–П’ятниця"
+        },
         "from": "08:00",
         "to": "13:00"
       }
@@ -532,12 +580,20 @@
     },
     "openingHours": [
       {
-        "day": "Monday",
+        "day": {
+          "pl": "Poniedziałek",
+          "en": "Monday",
+          "uk": "Понеділок"
+        },
         "from": "09:00",
         "to": "13:00"
       },
       {
-        "day": "Friday",
+        "day": {
+          "pl": "Piątek",
+          "en": "Friday",
+          "uk": "П’ятниця"
+        },
         "from": "16:00",
         "to": "20:00"
       }
@@ -590,7 +646,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Friday",
+        "day": {
+          "pl": "Poniedziałek–Piątek",
+          "en": "Monday–Friday",
+          "uk": "Понеділок–П’ятниця"
+        },
         "from": "08:00",
         "to": "13:00"
       }
@@ -642,17 +702,29 @@
     },
     "openingHours": [
       {
-        "day": "Tuesday",
+        "day": {
+          "pl": "Wtorek",
+          "en": "Tuesday",
+          "uk": "Вівторок"
+        },
         "from": "16:00",
         "to": "20:00"
       },
       {
-        "day": "Wednesday",
+        "day": {
+          "pl": "Środa",
+          "en": "Wednesday",
+          "uk": "Середа"
+        },
         "from": "11:00",
         "to": "15:00"
       },
       {
-        "day": "Saturday",
+        "day": {
+          "pl": "Sobota",
+          "en": "Saturday",
+          "uk": "Субота"
+        },
         "from": "08:00",
         "to": "12:00"
       }
@@ -704,12 +776,20 @@
     },
     "openingHours": [
       {
-        "day": "Wednesday",
+        "day": {
+          "pl": "Środa",
+          "en": "Wednesday",
+          "uk": "Середа"
+        },
         "from": "16:00",
         "to": "20:00"
       },
       {
-        "day": "Friday",
+        "day": {
+          "pl": "Piątek",
+          "en": "Friday",
+          "uk": "П’ятниця"
+        },
         "from": "09:00",
         "to": "13:00"
       }
@@ -761,7 +841,11 @@
     },
     "openingHours": [
       {
-        "day": "Thursday",
+        "day": {
+          "pl": "Czwartek",
+          "en": "Thursday",
+          "uk": "Четвер"
+        },
         "from": "11:00",
         "to": "15:00"
       }
@@ -812,7 +896,11 @@
     },
     "openingHours": [
       {
-        "day": "Monday–Sunday",
+        "day": {
+          "pl": "Poniedziałek–Niedziela",
+          "en": "Monday–Sunday",
+          "uk": "Понеділок–Неділя"
+        },
         "from": "12:00",
         "to": "20:00"
       }

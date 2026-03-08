@@ -61,7 +61,28 @@
   "helpOthers": {
     "p1": "Jeśli chcesz wspierać osoby w trudnych sytuacjach życiowych, Gdynia Wspiera pomoże Ci znaleźć bezpieczne i zweryfikowane sposoby – poprzez wolontariat, wsparcie materialne lub współpracę jako profesjonalista.",
     "p2": "Możesz kontaktować się bezpośrednio z instytucjami, korzystając z danych w ich ofertach, aby zapytać o aktualne potrzeby (np. pomoc wolontariacką, dary rzeczowe) lub formy współpracy zawodowej.",
-    "p3": "Dziękujemy za gotowość do pomocy – Twoje zaangażowanie wzmacnia system wsparcia dla mieszkańców Gdyni."
+    "p3": "Dziękujemy za gotowość do pomocy – Twoje zaangażowanie wzmacnia system wsparcia dla mieszkańców Gdyni.",
+    "subtitle": "Przeglądaj oferty wolontariatu, staży i współpracy. Znajdź sposób, aby pomóc innym."
+  },
+  "volunteering": {
+    "filters": "Filtry",
+    "searchLabel": "Szukaj",
+    "searchPlaceholder": "Wpisz nazwę, miejsce lub słowo kluczowe…",
+    "categoryLabel": "Kategoria",
+    "noResults": "Brak wyników spełniających kryteria.",
+    "noResultsHint": "Spróbuj zmienić filtry lub wyszukaj inne słowo kluczowe.",
+    "cat_internship": "Staż / praktyka",
+    "cat_volunteering": "Wolontariat",
+    "cat_support_center": "Miejsce wsparcia",
+    "free": "Bezpłatne",
+    "targetGroup": "Grupa docelowa",
+    "duration": "Czas trwania",
+    "schedule": "Harmonogram",
+    "requirements": "Wymagania",
+    "recruitment": "Rekrutacja",
+    "moreInfo": "Więcej informacji",
+    "showDetails": "Pokaż szczegóły",
+    "hideDetails": "Ukryj szczegóły"
   },
   "howToUse": {
     "intro": "Ta strona zachęca do korzystania z przeglądarki w sposób spokojny i bezpieczny – niezależnie od tego, czy szukasz pomocy dla siebie, dla kogoś bliskiego, czy jako profesjonalista wspierający innych.",
@@ -106,6 +127,9 @@
     "location": "Lokalizacja",
     "openInMaps": "Otwórz w Mapach Google",
     "mapPreview": "Szczegółowy podgląd mapy będzie dostępny w głównym widoku ofert."
+  },
+  "volDetail": {
+    "backToList": "← Wróć do listy"
   },
   "offerCard": {
     "freeVerified": "Bezpłatne i zweryfikowane",
