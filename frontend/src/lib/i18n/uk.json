@@ -217,9 +217,18 @@
     "homeInstitution": "Місто Гдиня – установи соціальної підтримки"
   },
   "languages": {
-    "pl": "Польська",
-    "en": "Англійська",
-    "uk": "Українська"
+    "pl": {
+      "name": "Polski",
+      "flag": "/assets/pl.jpg"
+    },
+    "en": {
+      "name": "English",
+      "flag": "/assets/eng.jpg"
+    },
+    "uk": {
+      "name": "Українська",
+      "flag": "/assets/uk.jpg"
+    }
   },
   "giveDetail": {
     "backToList": "← Повернутися до списку"

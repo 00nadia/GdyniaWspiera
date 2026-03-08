@@ -217,9 +217,18 @@
     "homeInstitution": "Miasto Gdynia – instytucje pomocy i wsparcia"
   },
   "languages": {
-    "pl": "Polski",
-    "en": "English",
-    "uk": "Українська"
+    "pl": {
+      "name": "Polski",
+      "flag": "lib/assets/pl.jpg"
+    },
+    "en": {
+      "name": "English",
+      "flag": "lib/assets/eng.jpg"
+    },
+    "uk": {
+      "name": "Українська",
+      "flag": "lib/assets/uk.jpg"
+    }
   },
   "giveDetail": {
     "backToList": "← Wróć do listy"
