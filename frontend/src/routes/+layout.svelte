@@ -7,7 +7,7 @@
 	import LanguageSwitcher from '$lib/components/LanguageSwitcher.svelte';
 	import AccessibilityControls from '$lib/components/AccessibilityControls.svelte';
 	import Chatbot from '$lib/components/Chatbot.svelte';
-	import ChatbotAI from '$lib/components/ChatbotAI.svelte';
+	
 	import 'leaflet/dist/leaflet.css';
 
 	let { children } = $props();
