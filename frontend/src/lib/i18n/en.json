@@ -10,7 +10,141 @@
     "title": "Help in Gdynia, when life is difficult",
     "subtitle": "Find free, verified and up-to-date psychological, legal and social support offers in Gdynia – for you or someone close to you.",
     "needHelp": "I need help",
-    "wantToHelp": "I want to help / donate"
+    "wantToHelp": "I want to help / donate",
+    "alwaysFree": "Always free",
+    "alwaysFreeDesc": "All offers in the browser are free of charge.",
+    "verifiedUpToDate": "Verified and up to date",
+    "verifiedUpToDateDesc": "Each offer is checked by the home institution."
+  },
+  "categories": {
+    "title": "Categories of support",
+    "abuse": "Violence and abuse",
+    "addiction": "Addiction",
+    "financial": "Financial difficulties",
+    "mentalHealth": "Mental health",
+    "housing": "Homelessness & housing",
+    "family": "Family and upbringing",
+    "legal": "Legal problems",
+    "migration": "Migration and integration"
+  },
+  "search": {
+    "title": "Quick search",
+    "subtitle": "Search by problem, type of help or institution name.",
+    "whatHelp": "What do you need help with?",
+    "placeholder": "e.g. violence, addiction, rent arrears...",
+    "typeOfSupport": "Type of support",
+    "any": "Any",
+    "therapy": "Therapy / counselling",
+    "legalAdvice": "Legal advice",
+    "socialWork": "Social work / intervention",
+    "supportGroup": "Support group",
+    "financialCounselling": "Financial counselling",
+    "searchOffers": "Search offers"
+  },
+  "info": {
+    "title": "What is Gdynia Wspiera?",
+    "p1": "This browser collects social help offers for people experiencing difficulties in everyday life – related to violence, addiction, finances, health, family and other challenges.",
+    "p2": "All offers are free of charge, up to date and checked by the home institution responsible for the service.",
+    "p3": "You will find information about the type of support, who it is for, where it is provided and how to contact the center – including therapists, lawyers, social workers and many more."
+  },
+  "layout": {
+    "skipToContent": "Skip to main content",
+    "brandSubtitle": "Free, verified social help offers",
+    "footerDesc": "Gdynia Wspiera – browser of free, up-to-date and verified social help offers.",
+    "footerEmergency": "For emergencies, always contact local emergency numbers first."
+  },
+  "about": {
+    "p1": "Gdynia Wspiera is coordinated by the home institution responsible for social support in the city of Gdynia. Its role is to collect, verify and regularly update information about free offers of help available to residents.",
+    "p2": "The offers in this browser come from public institutions, NGOs and other trusted partners. Before an offer appears here, it is checked – including its availability, target group, scope of support and contact information.",
+    "p3": "Institutions that would like to add or update their offer can contact the home institution using the official channels of the City of Gdynia."
+  },
+  "helpOthers": {
+    "p1": "If you want to support people in difficult life situations, Gdynia Wspiera helps you find safe and verified ways to do it – through volunteering, material support or cooperation as a professional.",
+    "p2": "You can contact institutions directly using the details in their offers to ask about current needs (for example volunteer help, donations in kind) or about forms of professional cooperation.",
+    "p3": "Thank you for being ready to help – your involvement strengthens the support system for residents of Gdynia."
+  },
+  "howToUse": {
+    "intro": "This page invites you to use the browser in a calm and safe way – whether you are looking for help for yourself, for someone close to you, or as a professional supporting others.",
+    "step1": "Choose the area of difficulty (for example violence, addiction, financial problems, mental health).",
+    "step2": "Use filters such as type of center, district or online help to narrow down the results.",
+    "step3": "Open the details of the offer to see who it is for, what it provides and how to contact the institution.",
+    "closing": "Remember: all offers shown here are free of charge and verified by the home institution. If you are in an emergency or life-threatening situation, always contact emergency services first."
+  },
+  "offers": {
+    "subtitle": "Browse free, verified social help offers in Gdynia. Refine the results using the filters.",
+    "filters": "Filters",
+    "problemCategory": "Problem category",
+    "housingHomelessness": "Housing / homelessness",
+    "centerType": "Type of center",
+    "crisisCenter": "Crisis center",
+    "hotline": "Hotline",
+    "shelter": "Shelter",
+    "other": "Other",
+    "socialWorker": "Social worker / intervention",
+    "district": "District",
+    "allGdynia": "All of Gdynia",
+    "searchKeyword": "Search by keyword",
+    "keywordPlaceholder": "e.g. violence, rent, lawyer...",
+    "noResults": "No offers match the selected filters.",
+    "noResultsHint": "Try removing some filters or using a different keyword."
+  },
+  "offerDetail": {
+    "backToOffers": "← Back to offers",
+    "freeOfCharge": "Free of charge",
+    "verifiedBy": "Verified by",
+    "lastUpdated": "Last updated:",
+    "targetGroups": "Target groups:",
+    "languages": "Languages:",
+    "onlineHelp": "Online help available:",
+    "yes": "Yes",
+    "no": "No",
+    "contact": "Contact",
+    "phone": "Phone:",
+    "email": "Email:",
+    "website": "Website:",
+    "openingHours": "Opening hours",
+    "location": "Location",
+    "openInMaps": "Open in Google Maps",
+    "mapPreview": "A detailed map preview will be available in the main offers view."
+  },
+  "offerCard": {
+    "freeVerified": "Free & verified",
+    "updated": "Updated:",
+    "showDetails": "Show details"
+  },
+  "accessibility": {
+    "settings": "Accessibility settings",
+    "fontNormal": "Standard font size",
+    "fontLarge": "Large font size",
+    "fontXLarge": "Extra large font size",
+    "colorVersion": "Color version",
+    "highContrast": "High contrast mode",
+    "blackWhite": "Black and white mode",
+    "language": "Language"
+  },
+  "map": {
+    "title": "Offers on map",
+    "error": "Map could not be loaded. You can still see all offers in the list.",
+    "details": "Details"
+  },
+  "tags": {
+    "abuse": "Violence and abuse",
+    "mental_health": "Mental health",
+    "family": "Family and upbringing",
+    "addiction": "Addiction",
+    "legal": "Legal problems",
+    "financial": "Financial difficulties",
+    "housing": "Housing / homelessness",
+    "migration": "Migration and integration",
+    "Adults": "Adults",
+    "Young adults": "Young adults",
+    "Families": "Families",
+    "Seniors": "Seniors",
+    "Children": "Children",
+    "Parents": "Parents",
+    "Polish": "Polish",
+    "English": "English",
+    "Ukrainian": "Ukrainian"
   },
   "common": {
     "free": "Free support",

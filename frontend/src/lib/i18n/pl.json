@@ -10,7 +10,141 @@
     "title": "Pomoc w Gdyni, gdy życie jest trudne",
     "subtitle": "Znajdź bezpłatne, zweryfikowane i aktualne oferty wsparcia psychologicznego, prawnego i społecznego w Gdyni – dla siebie lub kogoś bliskiego.",
     "needHelp": "Szukam pomocy",
-    "wantToHelp": "Chcę pomagać / przekazać darowiznę"
+    "wantToHelp": "Chcę pomagać / przekazać darowiznę",
+    "alwaysFree": "Zawsze bezpłatnie",
+    "alwaysFreeDesc": "Wszystkie oferty w przeglądarce są bezpłatne.",
+    "verifiedUpToDate": "Zweryfikowane i aktualne",
+    "verifiedUpToDateDesc": "Każda oferta jest sprawdzana przez instytucję prowadzącą."
+  },
+  "categories": {
+    "title": "Kategorie wsparcia",
+    "abuse": "Przemoc i nadużycia",
+    "addiction": "Uzależnienia",
+    "financial": "Trudności finansowe",
+    "mentalHealth": "Zdrowie psychiczne",
+    "housing": "Bezdomność i mieszkalnictwo",
+    "family": "Rodzina i wychowanie",
+    "legal": "Problemy prawne",
+    "migration": "Migracja i integracja"
+  },
+  "search": {
+    "title": "Szybkie wyszukiwanie",
+    "subtitle": "Szukaj po problemie, rodzaju pomocy lub nazwie instytucji.",
+    "whatHelp": "W czym potrzebujesz pomocy?",
+    "placeholder": "np. przemoc, uzależnienia, zaległości czynszowe...",
+    "typeOfSupport": "Rodzaj wsparcia",
+    "any": "Dowolny",
+    "therapy": "Terapia / poradnictwo",
+    "legalAdvice": "Porada prawna",
+    "socialWork": "Praca socjalna / interwencja",
+    "supportGroup": "Grupa wsparcia",
+    "financialCounselling": "Poradnictwo finansowe",
+    "searchOffers": "Szukaj ofert"
+  },
+  "info": {
+    "title": "Czym jest Gdynia Wspiera?",
+    "p1": "Ta przeglądarka zbiera oferty pomocy społecznej dla osób doświadczających trudności w codziennym życiu – związanych z przemocą, uzależnieniami, finansami, zdrowiem, rodziną i innymi wyzwaniami.",
+    "p2": "Wszystkie oferty są bezpłatne, aktualne i sprawdzone przez instytucję prowadzącą odpowiedzialną za daną usługę.",
+    "p3": "Znajdziesz tu informacje o rodzaju wsparcia, dla kogo jest przeznaczone, gdzie jest świadczone i jak skontaktować się z ośrodkiem – w tym z terapeutami, prawnikami, pracownikami socjalnymi i wieloma innymi."
+  },
+  "layout": {
+    "skipToContent": "Przejdź do głównej treści",
+    "brandSubtitle": "Bezpłatne, zweryfikowane oferty pomocy społecznej",
+    "footerDesc": "Gdynia Wspiera – przeglądarka bezpłatnych, aktualnych i zweryfikowanych ofert pomocy społecznej.",
+    "footerEmergency": "W nagłych wypadkach zawsze kontaktuj się z lokalnymi numerami alarmowymi."
+  },
+  "about": {
+    "p1": "Gdynia Wspiera jest koordynowana przez instytucję prowadzącą odpowiedzialną za wsparcie społeczne w mieście Gdynia. Jej rolą jest zbieranie, weryfikowanie i regularne aktualizowanie informacji o bezpłatnych ofertach pomocy dostępnych dla mieszkańców.",
+    "p2": "Oferty w tej przeglądarce pochodzą od instytucji publicznych, organizacji pozarządowych i innych zaufanych partnerów. Zanim oferta się tu pojawi, jest sprawdzana – w tym jej dostępność, grupa docelowa, zakres wsparcia i dane kontaktowe.",
+    "p3": "Instytucje, które chciałyby dodać lub zaktualizować swoją ofertę, mogą skontaktować się z instytucją prowadzącą za pośrednictwem oficjalnych kanałów Miasta Gdynia."
+  },
+  "helpOthers": {
+    "p1": "Jeśli chcesz wspierać osoby w trudnych sytuacjach życiowych, Gdynia Wspiera pomoże Ci znaleźć bezpieczne i zweryfikowane sposoby – poprzez wolontariat, wsparcie materialne lub współpracę jako profesjonalista.",
+    "p2": "Możesz kontaktować się bezpośrednio z instytucjami, korzystając z danych w ich ofertach, aby zapytać o aktualne potrzeby (np. pomoc wolontariacką, dary rzeczowe) lub formy współpracy zawodowej.",
+    "p3": "Dziękujemy za gotowość do pomocy – Twoje zaangażowanie wzmacnia system wsparcia dla mieszkańców Gdyni."
+  },
+  "howToUse": {
+    "intro": "Ta strona zachęca do korzystania z przeglądarki w sposób spokojny i bezpieczny – niezależnie od tego, czy szukasz pomocy dla siebie, dla kogoś bliskiego, czy jako profesjonalista wspierający innych.",
+    "step1": "Wybierz obszar trudności (na przykład przemoc, uzależnienia, problemy finansowe, zdrowie psychiczne).",
+    "step2": "Użyj filtrów, takich jak rodzaj ośrodka, dzielnica czy pomoc online, aby zawęzić wyniki.",
+    "step3": "Otwórz szczegóły oferty, aby zobaczyć, dla kogo jest, co oferuje i jak skontaktować się z instytucją.",
+    "closing": "Pamiętaj: wszystkie oferty prezentowane tutaj są bezpłatne i zweryfikowane przez instytucję prowadzącą. Jeśli jesteś w sytuacji zagrożenia życia, zawsze najpierw skontaktuj się ze służbami ratunkowymi."
+  },
+  "offers": {
+    "subtitle": "Przeglądaj bezpłatne, zweryfikowane oferty pomocy społecznej w Gdyni. Zawęź wyniki za pomocą filtrów.",
+    "filters": "Filtry",
+    "problemCategory": "Kategoria problemu",
+    "housingHomelessness": "Mieszkalnictwo / bezdomność",
+    "centerType": "Rodzaj ośrodka",
+    "crisisCenter": "Ośrodek kryzysowy",
+    "hotline": "Telefon zaufania",
+    "shelter": "Schronisko",
+    "other": "Inne",
+    "socialWorker": "Pracownik socjalny / interwencja",
+    "district": "Dzielnica",
+    "allGdynia": "Cała Gdynia",
+    "searchKeyword": "Szukaj po słowie kluczowym",
+    "keywordPlaceholder": "np. przemoc, czynsz, prawnik...",
+    "noResults": "Brak ofert pasujących do wybranych filtrów.",
+    "noResultsHint": "Spróbuj usunąć niektóre filtry lub użyj innego słowa kluczowego."
+  },
+  "offerDetail": {
+    "backToOffers": "← Wróć do ofert",
+    "freeOfCharge": "Bezpłatnie",
+    "verifiedBy": "Zweryfikowano przez",
+    "lastUpdated": "Ostatnia aktualizacja:",
+    "targetGroups": "Grupy docelowe:",
+    "languages": "Języki:",
+    "onlineHelp": "Pomoc online dostępna:",
+    "yes": "Tak",
+    "no": "Nie",
+    "contact": "Kontakt",
+    "phone": "Telefon:",
+    "email": "E-mail:",
+    "website": "Strona www:",
+    "openingHours": "Godziny otwarcia",
+    "location": "Lokalizacja",
+    "openInMaps": "Otwórz w Mapach Google",
+    "mapPreview": "Szczegółowy podgląd mapy będzie dostępny w głównym widoku ofert."
+  },
+  "offerCard": {
+    "freeVerified": "Bezpłatne i zweryfikowane",
+    "updated": "Zaktualizowano:",
+    "showDetails": "Pokaż szczegóły"
+  },
+  "accessibility": {
+    "settings": "Ustawienia dostępności",
+    "fontNormal": "Standardowy rozmiar czcionki",
+    "fontLarge": "Duży rozmiar czcionki",
+    "fontXLarge": "Bardzo duży rozmiar czcionki",
+    "colorVersion": "Wersja kolorowa",
+    "highContrast": "Tryb wysokokontrastowy",
+    "blackWhite": "Tryb czarno-biały",
+    "language": "Język"
+  },
+  "map": {
+    "title": "Oferty na mapie",
+    "error": "Nie udało się załadować mapy. Możesz nadal przeglądać oferty na liście.",
+    "details": "Szczegóły"
+  },
+  "tags": {
+    "abuse": "Przemoc i nadużycia",
+    "mental_health": "Zdrowie psychiczne",
+    "family": "Rodzina i wychowanie",
+    "addiction": "Uzależnienia",
+    "legal": "Problemy prawne",
+    "financial": "Trudności finansowe",
+    "housing": "Mieszkalnictwo / bezdomność",
+    "migration": "Migracja i integracja",
+    "Adults": "Dorośli",
+    "Young adults": "Młodzi dorośli",
+    "Families": "Rodziny",
+    "Seniors": "Seniorzy",
+    "Children": "Dzieci",
+    "Parents": "Rodzice",
+    "Polish": "Polski",
+    "English": "Angielski",
+    "Ukrainian": "Ukraiński"
   },
   "common": {
     "free": "Bezpłatne wsparcie",

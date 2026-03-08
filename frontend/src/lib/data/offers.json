@@ -4,7 +4,7 @@
     "name": {
       "pl": "Miejskie Centrum Kryzysowe",
       "en": "Municipal Crisis Center",
-      "uk": "Municipal Crisis Center"
+      "uk": "Міський кризовий центр"
     },
     "institutionType": "crisis_center",
     "categories": [
@@ -15,12 +15,12 @@
     "descriptionShort": {
       "pl": "Całodobowe wsparcie interwencyjne dla osób doświadczających przemocy, kryzysów rodzinnych i silnego stresu.",
       "en": "24/7 intervention support for people experiencing violence, family crises and severe stress.",
-      "uk": "24/7 intervention support for people experiencing violence, family crises and severe stress."
+      "uk": "Цілодобова інтервенційна підтримка для людей, які зазнають насильства, сімейних криз та сильного стресу."
     },
     "descriptionLong": {
       "pl": "Miejskie Centrum Kryzysowe oferuje bezpłatne wsparcie psychologiczne, interwencję kryzysową oraz konsultacje prawne dla osób doświadczających przemocy, nagłych kryzysów rodzinnych, myśli samobójczych lub silnego obciążenia psychicznego. Możliwa jest pomoc jednorazowa i krótkoterminowa.\n\nPomoc jest poufna i nie wymaga skierowania.",
       "en": "The Municipal Crisis Center offers free psychological support, crisis intervention and legal consultations for people experiencing violence, sudden family crises, suicidal thoughts or severe mental stress. One-off and short-term assistance is available.\n\nHelp is confidential and does not require a referral.",
-      "uk": "The Municipal Crisis Center offers free psychological support, crisis intervention and legal consultations for people experiencing violence, sudden family crises, suicidal thoughts or severe mental stress. One-off and short-term assistance is available.\n\nHelp is confidential and does not require a referral."
+      "uk": "Міський кризовий центр пропонує безкоштовну психологічну підтримку, кризову інтервенцію та юридичні консультації для людей, які зазнають насильства, раптових сімейних криз, суїцидальних думок або сильного психічного навантаження. Доступна одноразова та короткострокова допомога.\n\nДопомога є конфіденційною і не потребує направлення."
     },
     "address": "ul. Przykładowa 1",
     "district": "Śródmieście",
@@ -62,7 +62,7 @@
     "name": {
       "pl": "Poradnia Leczenia Uzależnień",
       "en": "Addiction Treatment Clinic",
-      "uk": "Addiction Treatment Clinic"
+      "uk": "Клініка лікування залежностей"
     },
     "institutionType": "therapist",
     "categories": [
@@ -72,12 +72,12 @@
     "descriptionShort": {
       "pl": "Poradnia oferująca terapię indywidualną i grupową dla osób z problemem uzależnienia oraz ich bliskich.",
       "en": "A clinic offering individual and group therapy for people with addiction problems and their loved ones.",
-      "uk": "A clinic offering individual and group therapy for people with addiction problems and their loved ones."
+      "uk": "Клініка, що пропонує індивідуальну та групову терапію для людей із проблемами залежності та їхніх близьких."
     },
     "descriptionLong": {
       "pl": "Poradnia zapewnia kompleksową, bezpłatną pomoc osobom zmagającym się z uzależnieniem od alkoholu, narkotyków, internetu i innych zachowań nałogowych. Dostępna jest terapia indywidualna, grupowa oraz wsparcie dla rodzin i bliskich.\n\nDo skorzystania z pomocy nie jest wymagane skierowanie.",
       "en": "The clinic provides comprehensive, free help to people struggling with addiction to alcohol, drugs, the Internet and other addictive behaviors. Individual and group therapy and support for families and loved ones are available.\n\nA referral is not required to receive assistance.",
-      "uk": "The clinic provides comprehensive, free help to people struggling with addiction to alcohol, drugs, the Internet and other addictive behaviors. Individual and group therapy and support for families and loved ones are available.\n\nA referral is not required to receive assistance."
+      "uk": "Клініка надає комплексну безкоштовну допомогу людям, які борються із залежністю від алкоголю, наркотиків, інтернету та інших адиктивних поведінок. Доступна індивідуальна та групова терапія, а також підтримка для сімей та близьких.\n\nДля отримання допомоги направлення не потрібне."
     },
     "address": "ul. Nadziei 12",
     "district": "Grabówek",
@@ -116,7 +116,7 @@
     "name": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej",
       "en": "Free Legal Aid Point",
-      "uk": "Free Legal Aid Point"
+      "uk": "Пункт безкоштовної правової допомоги"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -127,12 +127,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne m.in. w sprawach mieszkaniowych, zadłużeń, świadczeń i prawa rodzinnego.",
       "en": "Free legal advice, including: in housing, debt, benefits and family law matters.",
-      "uk": "Free legal advice, including: in housing, debt, benefits and family law matters."
+      "uk": "Безкоштовні юридичні консультації, зокрема з питань житла, боргів, соціальних виплат та сімейного права."
     },
     "descriptionLong": {
       "pl": "Punkt zapewnia bezpłatne porady prawne osobom, które nie są w stanie ponieść kosztów odpłatnej pomocy. Można uzyskać wsparcie w zakresie prawa mieszkaniowego, zadłużeń, świadczeń socjalnych, prawa pracy i rodzinnego.\n\nNiezbędne jest wcześniejsze umówienie wizyty.",
       "en": "The point provides free legal advice to people who are unable to afford the costs of paid assistance. You can get support in the field of housing law, debts, social benefits, labor and family law.\n\nIt is necessary to make an appointment in advance.",
-      "uk": "The point provides free legal advice to people who are unable to afford the costs of paid assistance. You can get support in the field of housing law, debts, social benefits, labor and family law.\n\nIt is necessary to make an appointment in advance."
+      "uk": "Пункт надає безкоштовні юридичні консультації людям, які не можуть дозволити собі оплачувану допомогу. Можна отримати підтримку у сфері житлового права, боргів, соціальних виплат, трудового та сімейного права.\n\nНеобхідно заздалегідь записатися на прийом."
     },
     "address": "ul. Prawna 5",
     "district": "Chylonia",
@@ -181,7 +181,7 @@
     "name": {
       "pl": "Konsultacja prawna",
       "en": "Legal consultation",
-      "uk": "Legal consultation"
+      "uk": "Юридична консультація"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -190,12 +190,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
       "en": "Free legal advice at the Free Legal Aid Point.",
-      "uk": "Free legal advice at the Free Legal Aid Point."
+      "uk": "Безкоштовні юридичні консультації в Пункті безкоштовної правової допомоги."
     },
     "descriptionLong": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne dla osób, które nie są w stanie ponieść kosztów odpłatnej pomocy. Pomoc jest dostępna zarówno stacjonarnie, jak i zdalnie.\n\nWskazówki: Jeżeli w tym miejscu nie możesz otrzymać pomocy, skontaktuj się ze Stowarzyszeniem OVUM przy ul. Traugutta 2 pod numerem telefonu 58 350 15 15 lub adresem e-mail biuro@ovum.org.pl.",
       "en": "The Free Legal Assistance Point offers legal advice to people who are unable to afford the costs of paid assistance. Help is available both on-site and remotely.\n\nTips: If you cannot get help here, please contact the OVUM Association at ul. Traugutta 2 by phone at 58 350 15 15 or by e-mail biuro@ovum.org.pl.",
-      "uk": "The Free Legal Assistance Point offers legal advice to people who are unable to afford the costs of paid assistance. Help is available both on-site and remotely.\n\nTips: If you cannot get help here, please contact the OVUM Association at ul. Traugutta 2 by phone at 58 350 15 15 or by e-mail biuro@ovum.org.pl."
+      "uk": "Пункт безкоштовної правової допомоги пропонує юридичні консультації людям, які не можуть дозволити собі оплачувану допомогу. Допомога доступна як очно, так і дистанційно.\n\nПорада: якщо тут ви не можете отримати допомогу, зверніться до Асоціації OVUM за адресою ul. Traugutta 2, тел. 58 350 15 15 або e-mail biuro@ovum.org.pl."
     },
     "address": "ul. 3 maja 27/31",
     "district": "Śródmieście",
@@ -233,7 +233,7 @@
     "name": {
       "pl": "Pomoc prawna i poradnictwo obywatelskie",
       "en": "Legal assistance and civic counseling",
-      "uk": "Legal assistance and civic counseling"
+      "uk": "Юридична допомога та громадянське консультування"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -242,12 +242,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne i wsparcie obywatelskie w Stowarzyszeniu OVUM.",
       "en": "Free legal advice and civic support at the OVUM Association.",
-      "uk": "Free legal advice and civic support at the OVUM Association."
+      "uk": "Безкоштовні юридичні консультації та громадянська підтримка в Асоціації OVUM."
     },
     "descriptionLong": {
       "pl": "Stowarzyszenie OVUM oferuje bezpłatne porady prawne, wsparcie w sprawach obywatelskich oraz pomoc w zakresie praw konsumenta i życia codziennego.\n\nPomoc udzielana jest po wcześniejszym umówieniu terminu wizyty.",
       "en": "The OVUM Association offers free legal advice, support in civic matters and assistance in consumer rights and everyday life.\n\nAssistance is provided after prior appointment.",
-      "uk": "The OVUM Association offers free legal advice, support in civic matters and assistance in consumer rights and everyday life.\n\nAssistance is provided after prior appointment."
+      "uk": "Асоціація OVUM пропонує безкоштовні юридичні консультації, підтримку у громадянських справах та допомогу у сфері прав споживачів та повсякденного життя.\n\nДопомога надається після попереднього запису."
     },
     "address": "ul. Romualda Traugutta 2",
     "district": "Chylonia",
@@ -285,7 +285,7 @@
     "name": {
       "pl": "Wsparcie psychoterapeutyczne",
       "en": "Psychotherapeutic support",
-      "uk": "Psychotherapeutic support"
+      "uk": "Психотерапевтична підтримка"
     },
     "institutionType": "therapist",
     "categories": [
@@ -294,12 +294,12 @@
     "descriptionShort": {
       "pl": "Wsparcie psychologiczne i psychoterapia dla mieszkańców Gdyni.",
       "en": "Psychological support and psychotherapy for Gdynia residents.",
-      "uk": "Psychological support and psychotherapy for Gdynia residents."
+      "uk": "Психологічна підтримка та психотерапія для мешканців Гдині."
     },
     "descriptionLong": {
       "pl": "Zespół Pomocy Psychologicznej MOPS oferuje konsultacje psychologiczne, grupy terapeutyczne oraz terapię indywidualną i rodzinną dla dzieci, młodzieży i dorosłych.\n\nW cenniku znajduje się krótko- i długoterminowa pomoc.",
       "en": "The MOPS Psychological Assistance Team offers psychological consultations, therapeutic groups and individual and family therapy for children, adolescents and adults.\n\nThe price list includes short- and long-term assistance.",
-      "uk": "The MOPS Psychological Assistance Team offers psychological consultations, therapeutic groups and individual and family therapy for children, adolescents and adults.\n\nThe price list includes short- and long-term assistance."
+      "uk": "Зеспіл психологічної допомоги MOPS пропонує психологічні консультації, терапевтичні групи, індивідуальну та сімейну терапію для дітей, підлітків та дорослих.\n\nДоступна коротко- та довгострокова допомога."
     },
     "address": "ul. Świętojańska 57/1",
     "district": "Śródmieście",
@@ -337,7 +337,7 @@
     "name": {
       "pl": "Diagnoza i leczenie uzależnienia od czynności",
       "en": "Diagnosis and treatment of activity addiction",
-      "uk": "Diagnosis and treatment of activity addiction"
+      "uk": "Діагностика та лікування поведінкових залежностей"
     },
     "institutionType": "therapist",
     "categories": [
@@ -347,12 +347,12 @@
     "descriptionShort": {
       "pl": "Poradnia Leczenia Uzależnień OPiTU oferuje pomoc osobom uzależnionym behawioralnie i ich bliskim.",
       "en": "The OPiTU Addiction Treatment Clinic offers help to behaviorally addicted people and their loved ones.",
-      "uk": "The OPiTU Addiction Treatment Clinic offers help to behaviorally addicted people and their loved ones."
+      "uk": "Клініка лікування залежностей OPiTU пропонує допомогу людям з поведінковими залежностями та їхнім близьким."
     },
     "descriptionLong": {
       "pl": "Poradnia OPiTU prowadzi psychoterapię indywidualną i grupową dla osób uzależnionych od hazardu, internetu, gier komputerowych, zakupów i innych zachowań. Pomoc kierowana jest także do bliskich osób uzależnionych.",
       "en": "The OPiTU clinic provides individual and group psychotherapy for people addicted to gambling, the Internet, computer games, shopping and other behaviors. Help is also directed to loved ones of addicts.",
-      "uk": "The OPiTU clinic provides individual and group psychotherapy for people addicted to gambling, the Internet, computer games, shopping and other behaviors. Help is also directed to loved ones of addicts."
+      "uk": "Клініка OPiTU проводить індивідуальну та групову психотерапію для людей, залежних від азартних ігор, інтернету, комп’ютерних ігор, шопінгу та інших поведінок. Допомога також надається близьким залежних осіб."
     },
     "address": "ul. Chrzanowskiego 3/5",
     "district": "Chylonia",
@@ -390,7 +390,7 @@
     "name": {
       "pl": "Konsultacja prawna",
       "en": "Legal consultation",
-      "uk": "Legal consultation"
+      "uk": "Юридична консультація"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -399,12 +399,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
       "en": "Free legal advice at the Free Legal Aid Point.",
-      "uk": "Free legal advice at the Free Legal Aid Point."
+      "uk": "Безкоштовні юридичні консультації в Пункті безкоштовної правової допомоги."
     },
     "descriptionLong": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
       "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
-      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+      "uk": "Пункт безкоштовної правової допомоги пропонує юридичні консультації очно та дистанційно. Якщо немає вільних місць, запишіться до Пункту за адресою ul. 3 maja 27/31."
     },
     "address": "ul. Lipowa 15",
     "district": "Śródmieście",
@@ -447,7 +447,7 @@
     "name": {
       "pl": "Poradzimy w cyfrowym świecie - konsultacje profilaktyczne",
       "en": "We will advise you in the digital world - preventive consultations",
-      "uk": "We will advise you in the digital world - preventive consultations"
+      "uk": "Порадимо у цифровому світі – профілактичні консультації"
     },
     "institutionType": "support_group",
     "categories": [
@@ -457,12 +457,12 @@
     "descriptionShort": {
       "pl": "Konsultacje dla rodziców i dzieci dotyczące bezpiecznego korzystania z mediów ekranowych.",
       "en": "Consultations for parents and children on the safe use of screen media.",
-      "uk": "Consultations for parents and children on the safe use of screen media."
+      "uk": "Консультації для батьків та дітей щодо безпечного використання екранних медіа."
     },
     "descriptionLong": {
       "pl": "Dział Profilaktyki OPiTU oferuje konsultacje profilaktyczne dla rodziców dzieci w wieku 6-12 lat, którzy spędzają za dużo czasu korzystając z mediów ekranowych. Rejestracja telefoniczna.",
       "en": "The OPiTU Prevention Department offers preventive consultations for parents of children aged 6-12 who spend too much time using screen media. Telephone registration.",
-      "uk": "The OPiTU Prevention Department offers preventive consultations for parents of children aged 6-12 who spend too much time using screen media. Telephone registration."
+      "uk": "Відділ профілактики OPiTU пропонує профілактичні консультації для батьків дітей віком 6–12 років, які проводять занадто багато часу за екранами. Реєстрація за телефоном."
     },
     "address": "ul. Al. Zwycięstwa 96/98",
     "district": "Redłowo",
@@ -501,7 +501,7 @@
     "name": {
       "pl": "Konsultacja prawna",
       "en": "Legal consultation",
-      "uk": "Legal consultation"
+      "uk": "Юридична консультація"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -510,12 +510,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
       "en": "Free legal advice at the Free Legal Aid Point.",
-      "uk": "Free legal advice at the Free Legal Aid Point."
+      "uk": "Безкоштовні юридичні консультації в Пункті безкоштовної правової допомоги."
     },
     "descriptionLong": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
       "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
-      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+      "uk": "Пункт безкоштовної правової допомоги пропонує юридичні консультації очно та дистанційно. Якщо немає вільних місць, запишіться до Пункту за адресою ul. 3 maja 27/31."
     },
     "address": "ul. Śmidowicza 49",
     "district": "Śródmieście",
@@ -558,7 +558,7 @@
     "name": {
       "pl": "Poradzimy - Konsultacje z obszaru profilaktyki uzależnień od substancji psychoaktywnych",
       "en": "We will advise you - Consultations in the field of prevention of addiction to psychoactive substances",
-      "uk": "We will advise you - Consultations in the field of prevention of addiction to psychoactive substances"
+      "uk": "Порадимо – Консультації з профілактики залежності від психоактивних речовин"
     },
     "institutionType": "support_group",
     "categories": [
@@ -568,12 +568,12 @@
     "descriptionShort": {
       "pl": "Konsultacje dla rodziców nastolatków zaniepokojonych zachowaniami związanymi z substancjami psychoaktywnymi.",
       "en": "Consultations for parents of teenagers concerned about behavior related to psychoactive substances.",
-      "uk": "Consultations for parents of teenagers concerned about behavior related to psychoactive substances."
+      "uk": "Консультації для батьків підлітків, стурбованих поведінкою, пов’язаною з психоактивними речовинами."
     },
     "descriptionLong": {
       "pl": "Dział Profilaktyki OPiTU oferuje 4 konsultacje indywidualne dla rodziców nastolatków z niepokojącymi zachowaniami związanymi z używaniem substancji psychoaktywnych (e-papierosy, alkohol, marihuana itp.).",
       "en": "The OPiTU Prevention Department offers 4 individual consultations for parents of teenagers with disturbing behaviors related to the use of psychoactive substances (e-cigarettes, alcohol, marijuana, etc.).",
-      "uk": "The OPiTU Prevention Department offers 4 individual consultations for parents of teenagers with disturbing behaviors related to the use of psychoactive substances (e-cigarettes, alcohol, marijuana, etc.)."
+      "uk": "Відділ профілактики OPiTU пропонує 4 індивідуальні консультації для батьків підлітків з тривожною поведінкою, пов’язаною з вживанням психоактивних речовин (електронні сигарети, алкоголь, марихуана тощо)."
     },
     "address": "ul. Al. Zwycięstwa 96/98",
     "district": "Redłowo",
@@ -611,7 +611,7 @@
     "name": {
       "pl": "Konsultacja prawna",
       "en": "Legal consultation",
-      "uk": "Legal consultation"
+      "uk": "Юридична консультація"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -620,12 +620,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
       "en": "Free legal advice at the Free Legal Aid Point.",
-      "uk": "Free legal advice at the Free Legal Aid Point."
+      "uk": "Безкоштовні юридичні консультації в Пункті безкоштовної правової допомоги."
     },
     "descriptionLong": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
       "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
-      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+      "uk": "Пункт безкоштовної правової допомоги пропонує юридичні консультації очно та дистанційно. Якщо немає вільних місць, запишіться до Пункту за адресою ul. 3 maja 27/31."
     },
     "address": "ul. Opata Hackiego 33",
     "district": "Gdynia",
@@ -673,7 +673,7 @@
     "name": {
       "pl": "Konsultacja prawna",
       "en": "Legal consultation",
-      "uk": "Legal consultation"
+      "uk": "Юридична консультація"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -682,12 +682,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
       "en": "Free legal advice at the Free Legal Aid Point.",
-      "uk": "Free legal advice at the Free Legal Aid Point."
+      "uk": "Безкоштовні юридичні консультації в Пункті безкоштовної правової допомоги."
     },
     "descriptionLong": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
       "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
-      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+      "uk": "Пункт безкоштовної правової допомоги пропонує юридичні консультації очно та дистанційно. Якщо немає вільних місць, запишіться до Пункту за адресою ul. 3 maja 27/31."
     },
     "address": "ul. Widna 2A",
     "district": "Chylonia",
@@ -730,7 +730,7 @@
     "name": {
       "pl": "Konsultacja prawna",
       "en": "Legal consultation",
-      "uk": "Legal consultation"
+      "uk": "Юридична консультація"
     },
     "institutionType": "lawyer",
     "categories": [
@@ -739,12 +739,12 @@
     "descriptionShort": {
       "pl": "Bezpłatne porady prawne w Punkcie Nieodpłatnej Pomocy Prawnej.",
       "en": "Free legal advice at the Free Legal Aid Point.",
-      "uk": "Free legal advice at the Free Legal Aid Point."
+      "uk": "Безкоштовні юридичні консультації в Пункті безкоштовної правової допомоги."
     },
     "descriptionLong": {
       "pl": "Punkt Nieodpłatnej Pomocy Prawnej oferuje porady prawne stacjonarnie i zdalnie. W razie braku dostępności umów się z Punktem przy ul. 3 maja 27/31.",
       "en": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31.",
-      "uk": "The Free Legal Assistance Point offers legal advice on-site and remotely. If there is no availability, make an appointment with the Point at ul. May 3, 27/31."
+      "uk": "Пункт безкоштовної правової допомоги пропонує юридичні консультації очно та дистанційно. Якщо немає вільних місць, запишіться до Пункту за адресою ul. 3 maja 27/31."
     },
     "address": "ul. Chylońska 237",
     "district": "Chylonia",
@@ -782,7 +782,7 @@
     "name": {
       "pl": "Anonimowe wsparcie psychologiczne dla dzieci i młodzieży",
       "en": "Anonymous psychological support for children and adolescents",
-      "uk": "Anonymous psychological support for children and adolescents"
+      "uk": "Анонімна психологічна підтримка для дітей та молоді"
     },
     "institutionType": "hotline",
     "categories": [
@@ -791,12 +791,12 @@
     "descriptionShort": {
       "pl": "Zdalne wsparcie psychologiczne dla dzieci i młodzieży.",
       "en": "Remote psychological support for children and adolescents.",
-      "uk": "Remote psychological support for children and adolescents."
+      "uk": "Дистанційна психологічна підтримка для дітей та молоді."
     },
     "descriptionLong": {
       "pl": "Coucb linia wsparcia oferuje anonimowe wsparcie psychologiczne na czacie i telefonie dla dzieci oraz młodzieży.",
       "en": "Coucb support line offers anonymous psychological support via chat and telephone for children and adolescents.",
-      "uk": "Coucb support line offers anonymous psychological support via chat and telephone for children and adolescents."
+      "uk": "Лінія підтримки Coucb пропонує анонімну психологічну підтримку через чат та телефон для дітей та молоді."
     },
     "address": "ul. Wejherowska 65",
     "district": "Dąbrowa",

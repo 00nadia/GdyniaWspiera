@@ -23,7 +23,7 @@
 		{$t('nav.offers')} ({getVisibleOffers().length})
 	</h1>
 	<p style="margin: 0; color: var(--color-text-muted); font-size: 0.9rem;">
-		Browse free, verified social help offers in Gdynia. Refine the results using the filters.
+		{$t('offers.subtitle')}
 	</p>
 </section>
 
@@ -48,54 +48,54 @@
 			font-size: 0.9rem;
 		"
 	>
-		<div style="font-weight: 600;">Filters</div>
+		<div style="font-weight: 600;">{$t('offers.filters')}</div>
 
 		<label style="display: flex; flex-direction: column; gap: 0.2rem;">
-			<span>Problem category</span>
+			<span>{$t('offers.problemCategory')}</span>
 			<select
 				bind:value={filter.category}
 				name="category"
 				style="border-radius: 999px; padding: 0.35rem 0.7rem; border: 1px solid var(--color-border-subtle);"
 			>
-				<option value="">Any</option>
-				<option value="abuse">Violence and abuse</option>
-				<option value="addiction">Addiction</option>
-				<option value="financial">Financial difficulties</option>
-				<option value="mental_health">Mental health</option>
-				<option value="housing">Housing / homelessness</option>
-				<option value="family">Family and upbringing</option>
-				<option value="legal">Legal problems</option>
-				<option value="migration">Migration and integration</option>
+				<option value="">{$t('search.any')}</option>
+				<option value="abuse">{$t('categories.abuse')}</option>
+				<option value="addiction">{$t('categories.addiction')}</option>
+				<option value="financial">{$t('categories.financial')}</option>
+				<option value="mental_health">{$t('categories.mentalHealth')}</option>
+				<option value="housing">{$t('offers.housingHomelessness')}</option>
+				<option value="family">{$t('categories.family')}</option>
+				<option value="legal">{$t('categories.legal')}</option>
+				<option value="migration">{$t('categories.migration')}</option>
 			</select>
 		</label>
 
 		<label style="display: flex; flex-direction: column; gap: 0.2rem;">
-			<span>Type of center</span>
+			<span>{$t('offers.centerType')}</span>
 			<select
 				bind:value={filter.institutionType}
 				name="type"
 				style="border-radius: 999px; padding: 0.35rem 0.7rem; border: 1px solid var(--color-border-subtle);"
 			>
-				<option value="">Any</option>
-				<option value="therapist">Therapy / counselling</option>
-				<option value="lawyer">Legal advice</option>
-				<option value="social_worker">Social worker / intervention</option>
-				<option value="crisis_center">Crisis center</option>
-				<option value="support_group">Support group</option>
-				<option value="hotline">Hotline</option>
-				<option value="shelter">Shelter</option>
-				<option value="other">Other</option>
+				<option value="">{$t('search.any')}</option>
+				<option value="therapist">{$t('search.therapy')}</option>
+				<option value="lawyer">{$t('search.legalAdvice')}</option>
+				<option value="social_worker">{$t('offers.socialWorker')}</option>
+				<option value="crisis_center">{$t('offers.crisisCenter')}</option>
+				<option value="support_group">{$t('search.supportGroup')}</option>
+				<option value="hotline">{$t('offers.hotline')}</option>
+				<option value="shelter">{$t('offers.shelter')}</option>
+				<option value="other">{$t('offers.other')}</option>
 			</select>
 		</label>
 
 		<label style="display: flex; flex-direction: column; gap: 0.2rem;">
-			<span>District</span>
+			<span>{$t('offers.district')}</span>
 			<select
 				bind:value={filter.district}
 				name="district"
 				style="border-radius: 999px; padding: 0.35rem 0.7rem; border: 1px solid var(--color-border-subtle);"
 			>
-				<option value="all">All of Gdynia</option>
+				<option value="all">{$t('offers.allGdynia')}</option>
 				<option value="Śródmieście">Śródmieście</option>
 				<option value="Grabówek">Grabówek</option>
 				<option value="Chylonia">Chylonia</option>
@@ -103,12 +103,12 @@
 		</label>
 
 		<label style="display: flex; flex-direction: column; gap: 0.2rem;">
-			<span>Search by keyword</span>
+			<span>{$t('offers.searchKeyword')}</span>
 			<input
 				bind:value={filter.query}
 				name="q"
 				type="search"
-				placeholder="e.g. violence, rent, lawyer..."
+				placeholder={$t('offers.keywordPlaceholder')}
 				style="
 					border-radius: 999px;
 					border: 1px solid var(--color-border-subtle);
@@ -131,9 +131,9 @@
 						font-size: 0.9rem;
 					"
 				>
-					<strong>No offers match the selected filters.</strong>
+					<strong>{$t('offers.noResults')}</strong>
 					<div style="margin-top: 0.25rem; color: var(--color-text-muted);">
-						Try removing some filters or using a different keyword.
+						{$t('offers.noResultsHint')}
 					</div>
 				</div>
 			{:else}

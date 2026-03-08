@@ -1,8 +1,9 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { get } from 'svelte/store';
 	import type { Offer } from '$lib/types/offers';
 	import { getText } from '$lib/types/offers';
-	import { locale } from '$lib/i18n';
+	import { locale, t } from '$lib/i18n';
 
 	let { offers, zoom = 12 }: { offers: Offer[]; zoom?: number } = $props();
 
@@ -75,7 +76,7 @@
 				});
 
 				const info = new google.maps.InfoWindow({
-					content: `<strong>${offerName}</strong><br/>${offer.address}<br/><a href="/offers/${offer.id}">Details</a>`
+					content: `<strong>${offerName}</strong><br/>${offer.address}<br/><a href="/offers/${offer.id}">${get(t)('map.details')}</a>`
 				});
 
 				marker.addListener('click', () => {
@@ -86,13 +87,13 @@
 			isReady = true;
 		} catch (e) {
 			console.error(e);
-			error = 'Map could not be loaded. You can still see all offers in the list.';
+			error = get(t)('map.error');
 		}
 	});
 </script>
 
 <div
-	aria-label="Offers on map"
+	aria-label={$t('map.title')}
 	style="
 		border-radius: 18px;
 		overflow: hidden;

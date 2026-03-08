@@ -1,7 +1,7 @@
 <script lang="ts">
 	import type { Offer } from '$lib/types/offers';
 	import { getText } from '$lib/types/offers';
-	import { locale } from '$lib/i18n';
+	import { locale, t } from '$lib/i18n';
 
 	let { offer }: { offer: Offer } = $props();
 	let currentLang = $derived($locale);
@@ -37,10 +37,10 @@
 					font-size: 0.75rem;
 				"
 			>
-				Free &amp; verified
+				{$t('offerCard.freeVerified')}
 			</span>
 			<span style="font-size: 0.7rem; color: var(--color-text-muted);">
-				Updated: {offer.lastUpdated}
+				{$t('offerCard.updated')} {offer.lastUpdated}
 			</span>
 		</div>
 	</header>
@@ -58,7 +58,7 @@
 					background: #f1f4ff;
 				"
 			>
-				{c}
+				{$t(`tags.${c}`)}
 			</span>
 		{/each}
 	</div>
@@ -73,7 +73,7 @@
 		"
 	>
 		<div style="color: var(--color-text-muted);">
-			{offer.targetGroups.join(', ')}
+			{offer.targetGroups.map(g => $t(`tags.${g}`)).join(', ')}
 		</div>
 		<a
 			href={`/offers/${offer.id}`}
@@ -86,7 +86,7 @@
 				font-size: 0.85rem;
 			"
 		>
-			Show details
+			{$t('offerCard.showDetails')}
 		</a>
 	</div>
 </article>
