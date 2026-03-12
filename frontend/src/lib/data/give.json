@@ -1,0 +1,109 @@
+[
+  {
+    "id": "give-zywnosc-obluzee",
+    "name": {
+      "pl": "Przyjmę żywność",
+      "en": "Food Donations Accepted",
+      "uk": "Приймемо продукти харчування"
+    },
+    "category": "food",
+    "descriptionShort": {
+      "pl": "Do sklepu można przekazać fabrycznie zapakowane i nieuszkodzone produkty spożywcze w terminie ważności.",
+      "en": "The store accepts factory-sealed, undamaged food products within their expiration date.",
+      "uk": "До магазину можна передати фабрично запаковані та неушкоджені продукти харчування в межах терміну придатності."
+    },
+    "place": {
+      "pl": "Sklep Społeczny \"Za Stołem\" na Obłużu",
+      "en": "Social Store \"Za Stołem\" in Obłuże",
+      "uk": "Соціальний магазин \"Za Stołem\" в Облуже"
+    },
+    "address": "ul. Maciejewicza 11, Gdynia",
+    "district": "Obłuże",
+    "contact": {
+      "phone": "(+48) 508 423 653",
+      "email": "sklep.gdynia@bztrojmiasto.pl",
+      "website": "https://bztrojmiasto.pl/o-nas/jak-dzialamy/#sklepy"
+    },
+    "openingHours": {
+      "pl": "poniedziałek, środa 12:00–16:00",
+      "en": "Monday, Wednesday 12:00–16:00",
+      "uk": "понеділок, середа 12:00–16:00"
+    },
+    "targetGroup": {
+      "pl": "Dla każdego, kto chce przekazać żywność.",
+      "en": "For anyone who wants to donate food.",
+      "uk": "Для кожного, хто хоче передати продукти."
+    },
+    "url": "https://gdyniawspiera.pl/zadanie/294,przyjme-zywnosc.html"
+  },
+  {
+    "id": "give-zywnosc-orlowo",
+    "name": {
+      "pl": "Przyjmę żywność",
+      "en": "Food Donations Accepted",
+      "uk": "Приймемо продукти харчування"
+    },
+    "category": "food",
+    "descriptionShort": {
+      "pl": "Do sklepu można przekazać fabrycznie zapakowane i nieuszkodzone produkty spożywcze w terminie ważności.",
+      "en": "The store accepts factory-sealed, undamaged food products within their expiration date.",
+      "uk": "До магазину можна передати фабрично запаковані та неушкоджені продукти харчування в межах терміну придатності."
+    },
+    "place": {
+      "pl": "Sklep Społeczny \"Za Stołem\" w Orłowie",
+      "en": "Social Store \"Za Stołem\" in Orłowo",
+      "uk": "Соціальний магазин \"Za Stołem\" в Орлові"
+    },
+    "address": "ul. Lotników 86, Gdynia",
+    "district": "Orłowo",
+    "contact": {
+      "phone": "(+48) 508 423 653",
+      "email": "sklep.gdynia@bztrojmiasto.pl",
+      "website": "https://bztrojmiasto.pl/o-nas/jak-dzialamy/#sklepy"
+    },
+    "openingHours": {
+      "pl": "wtorek 14:00–18:00, czwartek 14:00–18:00",
+      "en": "Tuesday 14:00–18:00, Thursday 14:00–18:00",
+      "uk": "вівторок 14:00–18:00, четвер 14:00–18:00"
+    },
+    "targetGroup": {
+      "pl": "Dla każdego, kto chce podzielić się żywnością.",
+      "en": "For anyone who wants to share food.",
+      "uk": "Для кожного, хто хоче поділитися їжею."
+    },
+    "url": "https://gdyniawspiera.pl/zadanie/293,przyjme-zywnosc.html"
+  },
+  {
+    "id": "give-ubraniomat",
+    "name": {
+      "pl": "Interaktywny Ubraniomat",
+      "en": "Interactive Clothing Vending Machine",
+      "uk": "Інтерактивний автомат з одягом"
+    },
+    "category": "clothing",
+    "descriptionShort": {
+      "pl": "Przyjmowana jest odzież, obuwie, tekstylia i akcesoria w dobrym stanie.",
+      "en": "Clothing, footwear, textiles and accessories in good condition are accepted.",
+      "uk": "Приймається одяг, взуття, текстиль та аксесуари в гарному стані."
+    },
+    "place": {
+      "pl": "Interaktywny Ubraniomat",
+      "en": "Interactive Clothing Vending Machine",
+      "uk": "Інтерактивний автомат з одягом"
+    },
+    "address": "Gdynia",
+    "district": "Śródmieście",
+    "contact": {},
+    "openingHours": {
+      "pl": "Całodobowo",
+      "en": "24/7",
+      "uk": "Цілодобово"
+    },
+    "targetGroup": {
+      "pl": "Dla każdego, kto chce oddać odzież, obuwie lub tekstylia.",
+      "en": "For anyone who wants to donate clothing, footwear or textiles.",
+      "uk": "Для кожного, хто хоче віддати одяг, взуття або текстиль."
+    },
+    "url": "https://gdyniawspiera.pl/tablica-informacyjna/32.html"
+  }
+]

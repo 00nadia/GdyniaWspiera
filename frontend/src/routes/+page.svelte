@@ -193,11 +193,11 @@
 				"
       >
         <option value="">{$t('search.any')}</option>
-        <option value="therapy">{$t('search.therapy')}</option>
-        <option value="legal">{$t('search.legalAdvice')}</option>
-        <option value="social">{$t('search.socialWork')}</option>
-        <option value="group">{$t('search.supportGroup')}</option>
-        <option value="financial">{$t('search.financialCounselling')}</option>
+        <option value="therapist">{$t('search.therapy')}</option>
+        <option value="lawyer">{$t('search.legalAdvice')}</option>
+        <option value="social_worker">{$t('search.socialWork')}</option>
+        <option value="support_group">{$t('search.supportGroup')}</option>
+        <option value="other">{$t('search.financialCounselling')}</option>
       </select>
     </label>
 

@@ -16,6 +16,7 @@
 		{ href: '/', key: 'nav.home' },
 		{ href: '/offers', key: 'nav.offers' },
 		{ href: '/help-others', key: 'nav.helpOthers' },
+		{ href: '/give', key: 'nav.give' },
 		{ href: '/about', key: 'nav.about' },
 		{ href: '/contact', key: 'nav.contact' }
 	];
