@@ -1,7 +1,5 @@
 import adapter from "@sveltejs/adapter-static";
 
-const dev = process.env.NODE_ENV === "development";
-
 const config = {
   kit: {
     adapter: adapter({
@@ -10,8 +8,7 @@ const config = {
       fallback: "index.html",
     }),
     paths: {
-      base:
-        process.env.NODE_ENV === "production" ? "/sveltekit-github-pages" : "",
+      base: "",
     },
     prerender: {
       entries: ["*"],
