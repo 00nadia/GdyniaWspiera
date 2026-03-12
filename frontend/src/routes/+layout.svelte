@@ -2,6 +2,7 @@
   import "../app.css";
   import favicon from "$lib/assets/favicon.svg";
   import { page } from "$app/state";
+  import { base } from '$app/paths';
   import { onMount } from "svelte";
   import { setupI18n, t } from "$lib/i18n";
   import LanguageSwitcher from "$lib/components/LanguageSwitcher.svelte";
@@ -13,12 +14,12 @@
   let { children } = $props();
 
   const navLinks = [
-    { href: "#/", key: "nav.home" },
-    { href: "#/offers", key: "nav.offers" },
-    { href: "#/help-others", key: "nav.helpOthers" },
-    { href: "#/give", key: "nav.give" },
-    { href: "#/about", key: "nav.about" },
-    { href: "#/contact", key: "nav.contact" },
+    { href: "{base}/", key: "nav.home" },
+    { href: "{base}/offers", key: "nav.offers" },
+    { href: "{base}/help-others", key: "nav.helpOthers" },
+    { href: "{base}/give", key: "nav.give" },
+    { href: "{base}/about", key: "nav.about" },
+    { href: "{base}/contact", key: "nav.contact" },
   ];
 
   onMount(() => {
@@ -35,7 +36,7 @@
 <header class="layout-header">
   <div class="brand" aria-label="Gdynia Wspiera">
     <a
-      href="/"
+      href="{base}/"
       style="display: flex; align-items: center; text-decoration: none; color: inherit;"
     >
       <div>

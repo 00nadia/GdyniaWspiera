@@ -1,4 +1,3 @@
-// svelte.config.js
 import adapter from "@sveltejs/adapter-static";
 
 const dev = process.env.NODE_ENV === "development";
@@ -11,7 +10,8 @@ const config = {
       fallback: "index.html",
     }),
     paths: {
-      base: dev ? "" : "/GdyniaWspiera",
+      base:
+        process.env.NODE_ENV === "production" ? "/sveltekit-github-pages" : "",
     },
     prerender: {
       entries: ["*"],
