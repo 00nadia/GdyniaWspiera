@@ -1,3 +1,19 @@
-<script>
-  location.href = "/GdyniaWspiera/";
-</script>
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirect</title>
+    <script>
+      // pobiera aktualną ścieżkę
+      const path = window.location.pathname;
+      const base = "/GdynniaWspiera"; // dokładnie nazwa repo w URL
+
+      // usuwa ewentualne podwójne slashe
+      const newPath = base + path.replace(/^\/?/, "/");
+      window.location.replace(newPath);
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
