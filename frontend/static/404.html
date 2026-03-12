@@ -4,11 +4,8 @@
     <meta charset="UTF-8" />
     <title>Redirect</title>
     <script>
-      // pobiera aktualną ścieżkę
       const path = window.location.pathname;
-      const base = "/GdynniaWspiera"; // dokładnie nazwa repo w URL
-
-      // usuwa ewentualne podwójne slashe
+      const base = "/GdynniaWspiera";
       const newPath = base + path.replace(/^\/?/, "/");
       window.location.replace(newPath);
     </script>
